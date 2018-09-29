@@ -1,7 +1,7 @@
 Clases de Cloud Computing
 ======
 
-[![Build Status](https://travis-ci.org/JJ/CC-17-18.svg?branch=master)](https://travis-ci.org/JJ/CC-17-18)
+[![Build Status](https://travis-ci.org/JJ/CC-18-19.svg?branch=master)](https://travis-ci.org/JJ/CC-18-19)
 
 ## Cloud Computing I COMO
 
@@ -14,9 +14,12 @@ Repositorio para el material específico de cada clase, planificación y ejercic
 
 * Comienza con [la programación y objetivos de las diferentes sesiones de la asignatura](sesiones/README.md).
 * Puedes consultar [los apuntes de la materia](http://jj.github.io/CC).
+* Se entregan
+  los
+  [hitos del proyecto actualizando los ficheros de hitos y haciendo un pull request](proyectos/README.md)
 * Comprueba la [metodología y criterios de evaluación](Metodología_y_criterios_de_evaluación.md)
 * Tu fichero de objetivos estará en el [directorio correspondiente](objetivos/README.md).
-* Tu fichero de ejercicios, también en el [directorio correspondiente](ejercicios/README.md).
+
 
 
 
