@@ -2,8 +2,7 @@
 
 Agradeceré que contestes
 la
-[encuesta inicial]() también
-en este enlace corto <!-- por hacer -->
+[encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSfn9vNb21K3pRyV4udUGKx5WwloeM6hbttclkQLLXET95cfWA/viewform).
 
 ## Objetivos a cubrir en la primera semana
 
