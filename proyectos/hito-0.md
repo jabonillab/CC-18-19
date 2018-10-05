@@ -13,12 +13,12 @@ Incluye debajo un enlace a tu repositorio
 | CORREA FERNANDEZ,  GEMA |  | |
 | DE LA TORRE RODRIGUEZ,  ADRIAN |  | |
 | GALLEGO QUERO,  LUIS |  | |
-| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/cloud-computing | 1 |
+| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/cloud-computing | 0 |
 | GRIMM,  ALEXANDER MANUEL JOSEF |  | |
 | MORALES GARZON,  ANDREA |  | |
 | NEZREG ELAMBRI,   HOUARIA |  | |
 | PEIRÓ GARRIDO,  FELIPE |  | |
-| SAMANIEGO MARTINEZ,  SERGIO |  | |
+| SAMANIEGO MARTINEZ,  SERGIO |  |  |
 | SERRANO PEREZ,  JUAN CARLOS |  | |
 | TATBAK,  EMRE |  | |
 | VALTL,  JAKOB |  | |
