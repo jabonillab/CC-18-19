@@ -2,7 +2,7 @@
 
 Incluye debajo un enlace a tu repositorio
 
-| Nombre   | Nick de Github | Versión |
+| Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
 | AL-MUSAWI,  ABDULLAH TAHER SAADOON |  | |
 | AL-OWAIDI,  SALAM GHANIM NAJEEB |  | |
@@ -13,12 +13,12 @@ Incluye debajo un enlace a tu repositorio
 | CORREA FERNANDEZ,  GEMA |  | |
 | DE LA TORRE RODRIGUEZ,  ADRIAN |  | |
 | GALLEGO QUERO,  LUIS |  | |
-| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL |  | |
+| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/cloud-computing | 0 |
 | GRIMM,  ALEXANDER MANUEL JOSEF |  | |
 | MORALES GARZON,  ANDREA |  | |
 | NEZREG ELAMBRI,   HOUARIA |  | |
 | PEIRÓ GARRIDO,  FELIPE |  | |
-| SAMANIEGO MARTINEZ,  SERGIO | | |
+| SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 0 |
 | SERRANO PEREZ,  JUAN CARLOS |  | |
 | TATBAK,  EMRE |  | |
 | VALTL,  JAKOB |  | |
