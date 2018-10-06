@@ -44,6 +44,7 @@ EOC
   isnt($url_repo,"","El envío incluye un URL");
   like($url_repo,qr/github.com/,"El URL es de GitHub");
   my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/(.+)/);
+  is( fichero_objetivos($user), 0, "$user ha enviado objetivos" ); # Test 4
   my $repo_dir = "/tmp/$user-$name";
   if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
     mkdir($repo_dir);
@@ -52,7 +53,7 @@ EOC
   my $student_repo =  Git->repository ( Directory => $repo_dir );
   my @repo_files = $student_repo->command("ls-files");
   say "Ficheros\n\t→", join( "\n\t→", @repo_files);
-  isnt( grep(/proyecto.0.md/, @repo_files), 1, "No es el repositorio de la asignatura");
+  isnt( grep(/proyectos/hito.0.md/, @repo_files), 1, "No es el repositorio de la asignatura");
   for my $f (qw( README.md .gitignore LICENSE )) {
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
@@ -145,6 +146,14 @@ done_testing();
 
 
 # ------------------------------- Subs -----------------------------------
+
+sub fichero_objetivos {
+  my $user = shift;
+  my @ficheros_objetivos = glob "objetivos/*.md";
+  my @enviados = map { lc } @ficheros_objetivos;
+  my $lc_user = lc $user;
+  return grep( /$lc_user/, @enviados);
+}
 
 sub how_many_milestones {
   my ($user,$repo) = @_;
