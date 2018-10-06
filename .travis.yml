@@ -3,8 +3,8 @@ branches:
     - gh-pages
 language: perl
 perl:
-  - "5.16"
+  - "5.18"
 before_install:
-install: cpanm Test::More Test::Harness Git File::Slurper JSON Net::Ping TAP::Formatter::Color Term::ANSIColor 
+install:
 script: prove -c
 
