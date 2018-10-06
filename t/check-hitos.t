@@ -44,7 +44,7 @@ EOC
   isnt($url_repo,"","El envío incluye un URL");
   like($url_repo,qr/github.com/,"El URL es de GitHub");
   my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/(.+)/);
-  is( fichero_objetivos($user), 0, "$user ha enviado objetivos" ); # Test 4
+  ok( fichero_objetivos($user), "$user ha enviado objetivos" ); # Test 4
   my $repo_dir = "/tmp/$user-$name";
   if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
     mkdir($repo_dir);
