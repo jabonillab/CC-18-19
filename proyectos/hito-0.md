@@ -13,7 +13,7 @@ Incluye debajo un enlace a tu repositorio
 | CORREA FERNANDEZ,  GEMA |  | |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 0 |
 | GALLEGO QUERO,  LUIS |  | |
-| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/cloud-computing | 0 |
+| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/cloud-computing | 0.1 |
 | GRIMM,  ALEXANDER MANUEL JOSEF |  | |
 | MORALES GARZON,  ANDREA |  | |
 | NEZREG ELAMBRI,   HOUARIA |  | |
