@@ -8,7 +8,7 @@ Incluye debajo un enlace a tu repositorio
 | AL-OWAIDI,  SALAM GHANIM NAJEEB |  | |
 | ALQAM,  TAQIEDDIN F. A. |  | |
 | BAUTISTA CASTRO,  JAIRO DANIEL |  | |
-| BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 0.1 |
+| BONILLA BOHORQUEZ,  JORGE ANDRES | | |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER |  | |
 | CORREA FERNANDEZ,  GEMA |  | |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 0 |

@@ -53,7 +53,7 @@ EOC
   my $student_repo =  Git->repository ( Directory => $repo_dir );
   my @repo_files = $student_repo->command("ls-files");
   say "Ficheros\n\t→", join( "\n\t→", @repo_files);
-  isnt( grep(/proyectos/hito.0.md/, @repo_files), 1, "No es el repositorio de la asignatura");
+  isnt( grep(/proyectos\/hito.0.md/, @repo_files), 1, "No es el repositorio de la asignatura");
   for my $f (qw( README.md .gitignore LICENSE )) {
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
