@@ -17,14 +17,8 @@ Incluye debajo un enlace a tu repositorio
 | GRIMM,  ALEXANDER MANUEL JOSEF |  | |
 | MORALES GARZON,  ANDREA |  | |
 | NEZREG ELAMBRI,   HOUARIA |  | |
-<<<<<<< HEAD
 | PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 0 |
-| SAMANIEGO MARTINEZ,  SERGIO |  |  |
+| SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 0 |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 0 |
-=======
-| PEIRÓ GARRIDO,  FELIPE |  | |
-| SAMANIEGO MARTINEZ,  SERGIO | | |
-| SERRANO PEREZ,  JUAN CARLOS |  | |
->>>>>>> Update hito-0.md
 | TATBAK,  EMRE |  | |
 | VALTL,  JAKOB |  | |
