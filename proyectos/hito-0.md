@@ -11,16 +11,8 @@ Incluye debajo un enlace a tu repositorio
 | BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 0 |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER |  | |
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 0 |
-| CORREA FERNANDEZ,  GEMA |  | |
-<<<<<<< HEAD
-<<<<<<< HEAD
+| CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 0 |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 0.1 |
-=======
-| DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 2.17.1 |
->>>>>>> Arreglo error en la version
-=======
-| DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 0.1 |
->>>>>>> Testea con fatpack
 | GALLEGO QUERO,  LUIS |  | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/cloud-computing | 0 |
 | GRIMM,  ALEXANDER MANUEL JOSEF |  | |
