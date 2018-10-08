@@ -16,6 +16,7 @@ Incluye debajo un enlace a tu repositorio
 | GALLEGO QUERO,  LUIS |  | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/cloud-computing | 0 |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 0 |
+| MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 0 |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 0 |
 | MORALES GARZON,  ANDREA |  | |
 | NEZREG ELAMBRI,   HOUARIA |  | |
