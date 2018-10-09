@@ -13,7 +13,7 @@ Incluye debajo un enlace a tu repositorio
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 0 |
 | CORREA FERNANDEZ,  GEMA |  | |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 0.1 |
-| GALLEGO QUERO,  LUIS |  | |
+| GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 0 |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/cloud-computing | 0 |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 0 |
 | MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 0 |
