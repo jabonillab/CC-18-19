@@ -14,7 +14,7 @@
 
 - [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 
-- [ ] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
+- [X] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
 
 ## Segunda Semana
@@ -25,3 +25,5 @@
 - [ ] Entender el concepto de DevOps.
 - [ ] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
 - [ ] Aprender a usar integración continua en cualquier aplicación.
+- [ ] Hacer uso de los issues y milestone
+- [X] Configurar la línea de órdenes para presentar información de repos.
