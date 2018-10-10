@@ -12,9 +12,9 @@
 
 - [X] Comenzar a usar git desde línea de órdenes y comprender su papel como sistema para trabajo colaborativo y despliegue de aplicaciones.
 
-- [ ] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 
-- [ ] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
+- [X] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
 - [X] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
 
@@ -26,5 +26,5 @@
 
 - [X] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 
-- [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [X] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
