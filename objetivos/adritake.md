@@ -22,7 +22,7 @@
 - [ ] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [ ] Entender las características de las aplicaciones que se despliegan en la nube.
 - [ ] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
-- [ ] Entender el concepto de DevOps.
+- [X] Entender el concepto de DevOps.
 - [ ] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
 - [ ] Aprender a usar integración continua en cualquier aplicación.
 - [ ] Hacer uso de los issues y milestone
