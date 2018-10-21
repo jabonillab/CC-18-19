@@ -14,4 +14,20 @@
 
 - [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 
-- [ ] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
+- [X] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
+
+
+## Segunda Semana
+
+- [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [X] Entender las características de las aplicaciones que se despliegan en la nube.
+- [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [X] Entender el concepto de DevOps.
+- [X] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+- [X] Aprender a usar integración continua en cualquier aplicación.
+- [X] Hacer uso de los issues y milestone
+- [X] Configurar la línea de órdenes para presentar información de repos.
+- [X] Incluir descripción del proyecto.
+
+[Ejercicios](https://github.com/adritake/EjerciciosCC/tree/master/Tema2) sobre los objetivos.
+
