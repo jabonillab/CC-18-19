@@ -27,6 +27,7 @@
 - [X] Aprender a usar integración continua en cualquier aplicación.
 - [X] Hacer uso de los issues y milestone
 - [X] Configurar la línea de órdenes para presentar información de repos.
+- [ ] Incluir descripción del proyecto.
 
 [Ejercicios](https://github.com/adritake/EjerciciosCC/tree/master/Tema2) sobre los objetivos.
 
