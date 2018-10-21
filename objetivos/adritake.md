@@ -28,5 +28,5 @@
 - [ ] Hacer uso de los issues y milestone
 - [X] Configurar la línea de órdenes para presentar información de repos.
 
-[Ejercicios](https://github.com/adritake/EjerciciosCC) sobre los objetivos.
+[Ejercicios](https://github.com/adritake/EjerciciosCC/tree/master/Tema2) sobre los objetivos.
 
