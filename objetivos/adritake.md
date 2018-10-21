@@ -25,7 +25,7 @@
 - [X] Entender el concepto de DevOps.
 - [X] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
 - [X] Aprender a usar integración continua en cualquier aplicación.
-- [ ] Hacer uso de los issues y milestone
+- [X] Hacer uso de los issues y milestone
 - [X] Configurar la línea de órdenes para presentar información de repos.
 
 [Ejercicios](https://github.com/adritake/EjerciciosCC/tree/master/Tema2) sobre los objetivos.
