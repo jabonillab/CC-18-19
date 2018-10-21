@@ -21,7 +21,7 @@
 
 ### Otros objetivos
 
-- [x]Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+- [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
 - [x] Saber manejar la historia de comandos anteriores.
 - [x] Conocer permisos y cuales usar en cada momento (permisos de aquello que necesitemos realizar por línea de comandos).
 - [x] Haber entregado el hito 0 del proyecto.
