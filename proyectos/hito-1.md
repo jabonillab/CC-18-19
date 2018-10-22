@@ -14,7 +14,7 @@ Incluye debajo un enlace a tu repositorio
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | | |
 | CAMPOY NIEVES, ALEJANDRO | | |
 | CASANOVA GALLARDO, ENRIQUE | | |
-| CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 1 |
+| CORREA FERNANDEZ,  GEMA | | |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
 | GALLEGO QUERO,  LUIS | | |
