@@ -19,7 +19,7 @@ Incluye debajo un enlace a tu repositorio
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
 | GALLEGO QUERO,  LUIS | | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
-| GRIMM,  ALEXANDER MANUEL JOSEF | | |
+| GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 1 |
 | MARTÍN VALERA, JONATHAN | | |
 | MESA GONZÁLEZ, JESÚS | | |
 | MORALES GARZON,  ANDREA | | |
