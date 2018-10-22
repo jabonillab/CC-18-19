@@ -14,8 +14,13 @@ Incluye debajo un enlace a tu repositorio
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | | |
 | CAMPOY NIEVES, ALEJANDRO | | |
 | CASANOVA GALLARDO, ENRIQUE | | |
+<<<<<<< HEAD
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 1 |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
+=======
+| CORREA FERNANDEZ,  GEMA | | |
+| DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 1 |
+>>>>>>> Añado mis datos al hito 1
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
 | GALLEGO QUERO,  LUIS | | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
