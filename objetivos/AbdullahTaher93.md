@@ -1,4 +1,4 @@
-﻿# Objetivos de AbdullahTaher
+# Objetivos de AbdullahTaher
 Saadoon ALmusawi
 
 ## Primera semana
