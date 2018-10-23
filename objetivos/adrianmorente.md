@@ -15,3 +15,12 @@
 - [X] Aprender a instalar software libre en Linux.
 - [X] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [X] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+
+
+### Objetivos a cubrir en la segunda semana
+
+- [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [X] Entender las características de las aplicaciones que se despliegan en la nube.
+- [X] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+- [X] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
+- [X] Comprender el primer hito del proyecto.

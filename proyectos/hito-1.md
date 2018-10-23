@@ -12,18 +12,18 @@ Incluye debajo un enlace a tu repositorio
 | BAUTISTA CASTRO,  JAIRO DANIEL | | |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | | |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | | |
-| CAMPOY NIEVES, ALEJANDRO | | |
+| CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 1 |
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 1 |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 1 |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
-| GALLEGO QUERO,  LUIS | | |
+| GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 0.5 |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
 | GRIMM,  ALEXANDER MANUEL JOSEF | | |
 | MARTÍN VALERA, JONATHAN | | |
-| MESA GONZÁLEZ, JESÚS | | |
+| MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 1 |
 | MORALES GARZON,  ANDREA | | |
-| MORENTE GABALDÓN, ADRIÁN | | |
+| MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 2 |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | | |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
