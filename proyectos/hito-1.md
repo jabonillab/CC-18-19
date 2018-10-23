@@ -23,7 +23,7 @@ Incluye debajo un enlace a tu repositorio
 | MARTÍN VALERA, JONATHAN | | |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 1 |
 | MORALES GARZON,  ANDREA | | |
-| MORENTE GABALDÓN, ADRIÁN | | |
+| MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 2 |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | | |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
