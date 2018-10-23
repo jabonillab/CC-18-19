@@ -20,7 +20,7 @@ Incluye debajo un enlace a tu repositorio
 | GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 0.5 |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
 | GRIMM,  ALEXANDER MANUEL JOSEF | | |
-| MARTÍN VALERA, JONATHAN | | |
+| MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 0.1 |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 1 |
 | MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 1 |
 | MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 2 |
