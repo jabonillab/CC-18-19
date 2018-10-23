@@ -11,19 +11,24 @@ Incluye debajo un enlace a tu repositorio
 | ARCOS ANEAS, CARMEN | | |
 | BAUTISTA CASTRO,  JAIRO DANIEL | | |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | | |
+<<<<<<< HEAD
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 0.1 |
 | CAMPOY NIEVES, ALEJANDRO | | |
+=======
+| CABRERA GUTIERREZ,  ANTONIO JAVIER | | |
+| CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 1 |
+>>>>>>> 3fd3bdf8e9e7f8ecaab9965ce0e9500fa48e6450
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 1 |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
-| GALLEGO QUERO,  LUIS | | |
+| GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 0.5 |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
 | GRIMM,  ALEXANDER MANUEL JOSEF | | |
 | MARTÍN VALERA, JONATHAN | | |
-| MESA GONZÁLEZ, JESÚS | | |
-| MORALES GARZON,  ANDREA | | |
-| MORENTE GABALDÓN, ADRIÁN | | |
+| MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 1 |
+| MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 1 |
+| MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 2 |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | | |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
