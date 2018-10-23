@@ -13,7 +13,7 @@ Incluye debajo un enlace a tu repositorio
 | BONILLA BOHORQUEZ,  JORGE ANDRES | | |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | | |
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 1 |
-| CASANOVA GALLARDO, ENRIQUE | | |
+| CASANOVA GALLARDO, ENRIQUE | https://github.com/EnriCasGal/CC-Practicas | 1 |
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 1 |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
