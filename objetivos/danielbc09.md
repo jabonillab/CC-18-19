@@ -27,3 +27,9 @@
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 
 - [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+
+
+## Segunda semana
+
+- [x] Comprender el proceso de desarrollo que se realiza para desplegar aplicaciones en la nube.
+- [X] Entender las características de las aplicaciones que se despliegan en la nube.
