@@ -24,6 +24,13 @@ https://www.meetup.com/es-ES/Granada-Geek/events/255394720/
   
 * Decidir tema para el seminario de recuperación de las clases de la
   semana anterior.
+  
+* Entender por qué no se hace `git pull` sino `git pull --rebase` y
+  como arreglarlo en ese caso
+  usando
+  [`git squash`](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git). 
+  
+* Proponer temas para el siguiente seminario/recuperación.
 
   
 ## Material para la clase
@@ -33,7 +40,7 @@ https://www.meetup.com/es-ES/Granada-Geek/events/255394720/
 
 * *Práctica*:
   [Hito correspondiente](https://jj.github.io/CC/documentos/proyecto/2.Provisionamiento). *Fecha
-  de entrega*: **17 de noviembre**. 
+  de entrega*: **7 de noviembre**. 
 
 
 ## Siguiente semana
