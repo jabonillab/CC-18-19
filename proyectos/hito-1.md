@@ -28,6 +28,6 @@ Incluye debajo un enlace a tu repositorio
 | PEIRÓ GARRIDO,  FELIPE | | |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
 | SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 1.0 |
-| SERRANO PEREZ,  JUAN CARLOS | | |
+| SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 3 |
 | TATBAK,  EMRE | | |
 | VALTL,  JAKOB | | |
