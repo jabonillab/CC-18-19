@@ -30,3 +30,4 @@ File 1: 3/10/2018
 - [x] Comprender el primer hito del proyecto.
 - [x] Comprender el primer hito del proyecto
 - [x] Comprender el primer hito del proyecto.
+- [x] cerrar issues de la línea de órdenes!
