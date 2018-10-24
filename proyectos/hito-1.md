@@ -9,8 +9,8 @@ Incluye debajo un enlace a tu repositorio
 | ALGUACIL CAMARERO,  MARÍA DEL MAR | https://github.com/MarAl15/ProyectoCC | 1  |
 | ALQAM,  TAQIEDDIN F. A. | | |
 | ARCOS ANEAS, CARMEN | https://github.com/CarmenArcos/CloudComputing | 1 |
-| BAUTISTA CASTRO,  JAIRO DANIEL | | |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | |
+| BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 1 |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 0.2 |
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 1 |
 | CASANOVA GALLARDO, ENRIQUE | https://github.com/EnriCasGal/CC-Practicas | 1 |
@@ -30,4 +30,4 @@ Incluye debajo un enlace a tu repositorio
 | SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 1.0 |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 3 |
 | TATBAK,  EMRE | | |
-| VALTL,  JAKOB | | |
+| VALTL,  JAKOB | https://github.com/valtl/cc-Master | 2 |
