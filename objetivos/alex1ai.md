@@ -1,6 +1,6 @@
 # Primera semana
 
-## Objetivos a cubrir en la primera semana
+## Objetivos primera semana 
 
 - [X] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 
@@ -27,4 +27,9 @@
 - [X] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 
 - [X] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+
+## Objetivos segunda semana
+
+- [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [ ] Entender las características de las aplicaciones que se despliegan en la nube.
 
