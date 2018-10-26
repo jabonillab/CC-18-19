@@ -9,7 +9,7 @@ https://www.meetup.com/es-ES/Granada-Geek/events/255394720/
    actualidad.
 3. Comprender el paper fundamental de la infraestructura virtual en
    este proceso.
-4. Entender en qué consiste la [infraestructura como software](https://jj.github.io/CC/documentos/temas/Provision)
+4. Entender en qué consiste los [servicios web y cómo desplegarlos en la nube](https://jj.github.io/CC/documentos/temas/PaaS)
 
 ## Otros objetivos
 
@@ -19,11 +19,9 @@ https://www.meetup.com/es-ES/Granada-Geek/events/255394720/
 * Tener manejo básico de los lenguajes usados en herramientas de
   provisionamiento, Python y Ruby.
   
-* Poner a punto hipervisores de uso local y sitios online que permitan
-  usar máquinas virtuales para provisionar.
+* Darse de alta en servicios PaaS como zeit.co y Heroku.
   
-* Decidir tema para el seminario de recuperación de las clases de la
-  semana anterior.
+* Establecido el tema de la charla de recuperación: provisión con Ansible.
   
 * Entender por qué no se hace `git pull` sino `git pull --rebase` y
   como arreglarlo en ese caso
@@ -36,10 +34,10 @@ https://www.meetup.com/es-ES/Granada-Geek/events/255394720/
 ## Material para la clase
 
 
-* *Teoría*: [Material de este tema](https://jj.github.io/CC/documentos/temas/Provision)
+* *Teoría*: [Material de este tema](https://jj.github.io/CC/documentos/temas/PaaS)
 
 * *Práctica*:
-  [Hito correspondiente](https://jj.github.io/CC/documentos/proyecto/2.Provisionamiento). *Fecha
+  [Hito correspondiente](https://jj.github.io/CC/documentos/proyecto/2.PaaS). *Fecha
   de entrega*: **7 de noviembre**. 
 
 
