@@ -1,4 +1,4 @@
-# Tercera semana, 24 de octubre de 2018
+# Cuarta semana, 24 de octubre de 2018
 
 Recordatorio: el lunes a las 13:30 seminario-recuperación de clase
 https://www.meetup.com/es-ES/Granada-Geek/events/255394720/
