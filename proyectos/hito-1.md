@@ -18,7 +18,7 @@ Incluye debajo un enlace a tu repositorio
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 1.5 **Reenviado** |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | https://github.com/migueldgoncalves/CCproj_1819 | 1 |
 | GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 0.5 |
-| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 1 |
+| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 2 **Reenviado** |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 1 |
 | MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 0.1 |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 1 |
