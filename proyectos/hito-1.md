@@ -27,7 +27,7 @@ Incluye debajo un enlace a tu repositorio
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 1 |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | https://github.com/AntonioJavierRP/Cloud-Computing-Project | 1.0 |
-| SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 1.0 **Reenviado** |
+| SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 1.1 **Reenviado** |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 3 |
 | TATBAK,  EMRE | | |
 | VALTL,  JAKOB | https://github.com/valtl/cc-Master | 3.0 *reenviado* |
