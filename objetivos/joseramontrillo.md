@@ -16,7 +16,7 @@
 
 - [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
-- [ ] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
+- [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura -> https://github.com/jrtrillo/ejercicios_cc/blob/master/ubuntuinstaladoypuestoapunto.png
 
 - [x] Usar los métodos de entrega de los objetivos propuestos para la asignatura usando GitHub. -> Se ha creado un repositorio llamados ejercicios cc donde se irá subiendo todos los ejercicios y objetivos que se vayan cumpliendo https://github.com/jrtrillo/ejercicios_cc
 
@@ -26,4 +26,4 @@
 
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub. -> En el siguiente enlace https://github.com/jrtrillo/CC-18-19/blob/master/objetivos/joseramontrillo.md se puede ver el fichero con los objetivos y sus actualizaciones
 
-- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura. ->
+- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura. 
