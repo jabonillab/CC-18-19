@@ -8,13 +8,13 @@
 
 - [x] Entender el concepto de software libre y su aplicación práctica en clase. -> Tras la lectura de varios artículos y documentos he entendido como el concepto de software libre. Además viendo los documentos aportados en clase entiendo su aplicación práctica en clase.
 
-- [x] Vernos las caras. -> La primera clase ha sido el 26 de Octubre del 2018 donde se me ha añadido al grupo de telegram y dado una invitación
+- [x] Vernos las caras. -> La primera clase ha sido el 26 de Octubre del 2018 donde se me ha añadido al grupo de telegram y dado una invitación.
 
 - [x] Comenzar a usar git desde línea de órdenes y comprender su papel como sistema para trabajo colaborativo y despliegue de aplicaciones. -> https://github.com/jrtrillo/ejercicios_cc/blob/master/comenzar%20a%20usar%20gith.png
 
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 
-- [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
+- [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo. 
 
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura -> https://github.com/jrtrillo/ejercicios_cc/blob/master/ubuntuinstaladoypuestoapunto.png
 
