@@ -14,7 +14,7 @@
 
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 
-- [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo. 
+- [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura -> https://github.com/jrtrillo/ejercicios_cc/blob/master/ubuntuinstaladoypuestoapunto.png
 
