@@ -18,7 +18,7 @@
 
 - [ ] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
 
-- [ ] Usar los métodos de entrega de los objetivos propuestos para la asignatura usando GitHub.
+- [x] Usar los métodos de entrega de los objetivos propuestos para la asignatura usando GitHub. -> Se ha creado un repositorio llamados ejercicios cc donde se irá subiendo todos los ejercicios y objetivos que se vayan cumpliendo https://github.com/jrtrillo/ejercicios_cc
 
 - [ ] Manejar de forma básica la línea de órdenes de Linux.
 
