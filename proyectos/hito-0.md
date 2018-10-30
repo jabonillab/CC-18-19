@@ -1,6 +1,6 @@
 # Hito 0
 
-Incluye debajo un enlace a tu repositorio
+Incluye en la tabla inferior un enlace a tu repositorio
 
 | Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
