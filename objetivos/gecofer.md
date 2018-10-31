@@ -19,7 +19,7 @@
 - [ ] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [x] Entender las características de las aplicaciones que se despliegan en la nube.
 - [x] Entender que es un microservicio.
-- [x] Haber asistido a la charla "De 0 a cloud" el viernes 19 de octubre [apuntes](https://github.com/Gecofer/ejercicios-CC/blob/master/hito1/Charla0aCloud.pdf)
+- [x] Haber asistido a la charla "De 0 a cloud" el viernes 19 de octubre [(Ver apuntes)](https://github.com/Gecofer/ejercicios-CC/blob/master/hito1/Charla0aCloud.pdf)
 - [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
 - [x] Haber entendido el proyecto a realizar en la asignatura.
 - [x] Manejar los diferentes recursos de línea de órdenes.
