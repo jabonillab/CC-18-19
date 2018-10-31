@@ -26,3 +26,32 @@
 - [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con
   el mismo.
 - [x] Comprender el [primer hito del proyecto](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura).
+
+# Tercera semana, 24 de octubre de 2018
+
+## Objetivos a cubrir en esta semana
+
+- [x] Entender las arquitecturas de software en la nube de uso en la
+   actualidad.
+- [x] Comprender el paper fundamental de la infraestructura virtual en
+   este proceso.
+- [x] Entender en qué consiste la [infraestructura como software](https://jj.github.io/CC/documentos/temas/Provision)
+
+## Otros objetivos
+
+- [x] Revisar los resultados del primer hito y entender los fallos. Si no
+  se ha entregado todavía, lo dejamos para la clase del viernes. 
+
+- [x] Tener manejo básico de los lenguajes usados en herramientas de
+  provisionamiento, Python y Ruby.
+  
+- [x] Poner a punto hipervisores de uso local y sitios online que permitan
+  usar máquinas virtuales para provisionar.
+  
+- [x] Decidir tema para el seminario de recuperación de las clases de la
+  semana anterior.
+  
+- [x] Entender por qué no se hace `git pull` sino `git pull --rebase` y
+  como arreglarlo en ese caso
+  usando
+  [`git squash`](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git). 
