@@ -9,7 +9,7 @@ Incluye debajo un enlace a tu repositorio
 | ALGUACIL CAMARERO,  MARÍA DEL MAR | https://github.com/MarAl15/ProyectoCC | 1  |
 | ALQAM,  TAQIEDDIN F. A. | | |
 | ARCOS ANEAS, CARMEN | https://github.com/CarmenArcos/CloudComputing | 1 |
-| BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | |
+| BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 1.2 **Reenviado** |
 | BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 1 |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 0.2 |
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 1 |
@@ -23,7 +23,7 @@ Incluye debajo un enlace a tu repositorio
 | MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 0.1 |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 1 |
 | MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 1 |
-| MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 2 |
+| MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 3 **Reenviado** |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 1 |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | https://github.com/AntonioJavierRP/Cloud-Computing-Project | 1.0 |
