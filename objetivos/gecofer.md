@@ -12,7 +12,7 @@
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
-[enlaces de interés](https://github.com/Gecofer/ejercicios-CC/tree/master/hito0)
+[enlaces de interés](https://github.com/Gecofer/ejercicios-CC/blob/master/hito0/objetivos0.md)
 
 ## Segunda Semana (10 de Octubre)
 
