@@ -23,7 +23,7 @@ Incluye debajo un enlace a tu repositorio
 | MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 0.1 |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 1 |
 | MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 1 |
-| MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 2 |
+| MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 3 **Reenviado** |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 1 |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | https://github.com/AntonioJavierRP/Cloud-Computing-Project | 1.0 |
