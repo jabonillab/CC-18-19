@@ -32,17 +32,17 @@
 
 ## Objetivos a cubrir en esta semana
 
-- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube. -> Toda la información utilizada para comprender la metódología de desarrollo, prueba y despliegue se puede ver en el [tema 1](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura)  
-- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube. -> Toda la información utilizada para comprender la metódología de desarrollo, prueba y despliegue se puede ver en el [tema 1](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura) y los enlaces asociados dentro del tema
+- [x] Entender las características de las aplicaciones que se despliegan en la nube. -> Para entender las características se puede ver en el [tema 1](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura)
 
 ## Otros objetivos
 
 - [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
 - [x] Saber manejar la historia de comandos anteriores.
 - [x] Configurar la línea de órdenes para presentar información de repos.
-- [x] Conocer permisos y cuales usar en cada momento. ->
+- [x] Conocer permisos y cuales usar en cada momento.
 - [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo. -> [enlace](https://github.com/JJ/CC-18-19/blob/master/proyectos/hito-0.md)
-- [x] Comprender el primer hito del proyecto.->[enlace primer hito]](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura).
+- [x] Comprender el primer hito del proyecto.->[enlace primer hito](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura).
 - [x] Entender el tipo de proyecto que hay que llevar a cabo en la asignatura y obtener una idea principal del mismo.
 - [x] Lectura y comprensión del concepto de microservicios del repositorio de clase
 - [x] Asistir a la charla recomendada por la asignatura "0 a Cloud". -> La charla fue a las 17:00 impartida por Israel Blanca y en el aula 1.7. Sentado en las últimas filas cerca del pasillo de la derecha y en la misma fila que había 3 personas de origen asiático con pegatinas. 
