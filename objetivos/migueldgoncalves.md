@@ -7,7 +7,7 @@
 - [x] Entender el concepto de software libre y su aplicación práctica en clase.
 - [x] Vernos las caras.
 - [x] Comenzar a usar git desde línea de órdenes y comprender su papel como sistema para trabajo colaborativo y despliegue de aplicaciones.
-- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube. [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/Arquitecturas%20software%20para%20la%20nube.md#ejercicio-1)
 - [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
 ### Otros objetivos de la primera semana
@@ -21,8 +21,8 @@
 
 ## Segunda semana
 
-- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
-- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube. [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/Arquitecturas%20software%20para%20la%20nube.md#ejercicio-1)
+- [x] Entender las características de las aplicaciones que se despliegan en la nube. [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/Arquitecturas%20software%20para%20la%20nube.md#ejercicio-2)
 
 ### Otros objetivos de la segunda semana
 
