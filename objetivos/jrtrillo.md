@@ -1,6 +1,6 @@
 # Objetivos de JoseRamónTrilloVilchez
 
-## Primera semana
+## Primera semana (3 Octubre)
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura. -> Se ha realizado una lectura comprensiva de la guía docente que aparece en el siguiente enlace http://masteres.ugr.es/ing-informatica/pages/info_academica/guias/curso_actual/1semestre/gd_mii_cloud_comp_fi_201718firmada/!
 
@@ -28,7 +28,7 @@
 
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura. 
 
-## Objetivos Segunda Semana
+## Objetivos Segunda Semana (10 Octubre)
 
 ## Objetivos a cubrir en esta semana
 
