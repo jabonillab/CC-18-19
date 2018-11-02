@@ -31,4 +31,4 @@ Incluye debajo un enlace a tu repositorio
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 4 **Reenviado** |
 | TATBAK,  EMRE | | |
 | TRILLO VÍLCHEZ,  JOSE RAMÓN | https://github.com/jrtrillo/proyecto_cc | 0.1 |
-| VALTL,  JAKOB | https://github.com/valtl/cc-Master | 3.0 *reenviado* |
+| VALTL,  JAKOB | https://github.com/valtl/cc-Master | 4.0 **Reenviado 2** |
