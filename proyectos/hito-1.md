@@ -22,7 +22,7 @@ Incluye debajo un enlace a tu repositorio
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 1 |
 | MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 0.1 |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 2 **Reenviado** |
-| MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 1 |
+| MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 1 **Reenviado** |
 | MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 3 **Reenviado** |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 1.1 **Reenviado** |
