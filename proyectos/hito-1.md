@@ -6,7 +6,7 @@ Incluye debajo un enlace a tu repositorio
 |----------|--------------- |---------|
 | AL-MUSAWI,  ABDULLAH TAHER SAADOON | https://github.com/AbdullahTaher93/CCMYproject | 0.2 |
 | AL-OWAIDI,  SALAM GHANIM NAJEEB | | |
-| ALGUACIL CAMARERO,  MARÍA DEL MAR | https://github.com/MarAl15/ProyectoCC | 1  |
+| ALGUACIL CAMARERO,  MARÍA DEL MAR | https://github.com/MarAl15/ProyectoCC | 1.5 **Reenviado** |
 | ALQAM,  TAQIEDDIN F. A. | | |
 | ARCOS ANEAS, CARMEN | https://github.com/CarmenArcos/CloudComputing | 1 |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 1.2 **Reenviado** |
