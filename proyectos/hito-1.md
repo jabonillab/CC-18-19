@@ -12,7 +12,7 @@ Incluye debajo un enlace a tu repositorio
 | BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 1.2 **Reenviado** |
 | BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 1 |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 0.2 |
-| CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 1 |
+| CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 1 **Reenviado**|
 | CASANOVA GALLARDO, ENRIQUE | https://github.com/EnriCasGal/CC-Practicas | 1 |
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 1 **Reenviado** |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 1.5 **Reenviado** |
