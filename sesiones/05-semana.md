@@ -9,6 +9,7 @@
    infraestructura mediante software, que se verá en [este seminario](https://www.meetup.com/es-ES/Granada-Geek/events/255973562/), como avance al tema siguiente.
 
 ## Otros objetivos
+* Repasar los reenvíos del hito 2 y los que no han reenviado todavía.
 * Conocer las diferentes ofertas de PaaS en la nube.
 * Instalar las herramientas de línea de órdenes de las herramientas cloud.
 * Hacerse con alguna cuenta gratuita o bonificada de cloud.
@@ -19,6 +20,10 @@
 
 * *Teoría*: Continuamos con el
   [segundo tema](http://jj.github.io/CC/documentos/temas/PaaS)
+  
+* Seguimos
+  con
+  [el segundo hito](http://jj.github.io/CC/documentos/temas/PaaS). 
 
 
 ## Siguiente semana
