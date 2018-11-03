@@ -1,5 +1,7 @@
 # Objetivos de la asignatura por Luis Gallego Quero
 
+Repositorio para le entrega de ejercicos => [Repositorio](https://github.com/luiisgallego/MII_CC_EJERCICIOS_1819)
+
 ## Primera sesión (3 Octubre)
 
 ### Objetivos principales
@@ -44,17 +46,14 @@
 
 ### Objetivos principales
 
-* [] 1.Entender las arquitecturas de software en la nube de uso en la actualidad.
-* [] 2.Comprender el paper fundamental de la infraestructura virtual en este proceso.
+* [X] 1.Entender las arquitecturas de software en la nube de uso en la actualidad.
+* [X] 2.Comprender el paper fundamental de la infraestructura virtual en este proceso.
 * [] 3.Entender en qué consiste los servicios web y cómo desplegarlos en la nube.
 
 ### Otros objetivos
 
-* [] 4.Revisar los resultados del primer hito y entender los fallos. Si no se ha entregado todavía, lo dejamos para la clase del viernes.
+* [X] 4.Revisar los resultados del primer hito y entender los fallos. Si no se ha entregado todavía, lo dejamos para la clase del viernes.
 * [] 5.Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, Python y Ruby.
-* [] 6.Darse de alta en servicios PaaS como zeit.co y Heroku.
-* [] 7.Entender por qué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando un squash commits con git rebase -i.
-
-
-* []
+* [X] 6.Darse de alta en servicios PaaS como zeit.co y Heroku.
+* [X] 7.Entender por qué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando un squash commits con git rebase -i.
 
