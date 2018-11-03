@@ -16,7 +16,7 @@ Incluye debajo un enlace a tu repositorio
 | CASANOVA GALLARDO, ENRIQUE | https://github.com/EnriCasGal/CC-Practicas | 1.1 **Reenviado** |
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 1 **Reenviado** |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 1.5 **Reenviado** |
-| DE OLIVEIRA DIAS GONÇALVES, MIGUEL | https://github.com/migueldgoncalves/CCproj_1819 | 1 |
+| DE OLIVEIRA DIAS GONÇALVES, MIGUEL | https://github.com/migueldgoncalves/CCproj_1819 | 2.0.0 **Reenviado** |
 | GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 1 **Reenviado** |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 2 **Reenviado** |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 1 |
