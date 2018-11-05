@@ -28,7 +28,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | PEIRÓ GARRIDO,  FELIPE | | |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
 | SAMANIEGO MARTINEZ,  SERGIO | | |
-| SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 1.1 |
+| SERRANO PEREZ,  JUAN CARLOS | | |
 | TATBAK,  EMRE | | |
 | TRILLO VÍLCHEZ,  JOSE RAMÓN | | |
 | VALTL,  JAKOB | | |

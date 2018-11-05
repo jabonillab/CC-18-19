@@ -82,7 +82,7 @@ EOC
     }
     ok( $deployment_url, "URL de despliegue hito 3");
   SKIP: {
-      skip "Ya en el hito siguiente", 2 unless $this_hito == 3;
+      skip "Ya en el hito siguiente", 2 unless $this_hito == 2;
       my $status = get($deployment_url);
       if ( ! $status || $status =~ /html/ ) {
 	$status = get( "$deployment_url/status"); # Por si acaso han movido la ruta
