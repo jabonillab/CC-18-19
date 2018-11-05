@@ -35,3 +35,4 @@
 14. Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
 15. Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
 
+Algunos de los objetivos cumplidos se ven reflejados en los [Ejercicios](https://github.com/samahetfield/ejerciciosCC-1819/blob/master/ejerciciosPaaS/EjerciciosSemana4.md)
