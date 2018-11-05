@@ -57168,7 +57168,6 @@ EOC
 
   if ( $this_hito > 1 ) { # Despliegue en algún lado
     $README =  read_text( "$repo_dir/README.md");
-    doing("hito 2");
     my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment)[^\n]+(https://\S+)\b});
     if ( $deployment_url ) {
       diag "☑ Hallado URL de despliegue $deployment_url";
@@ -57189,7 +57188,7 @@ EOC
     }
   }
   
-  if ( $this_hito > 3 ) { # Comprobar script para acopiar las máquinas 
+  if ( $this_hito > 2 ) { # Comprobar script para acopiar las máquinas 
     isnt( grep( /acopio.sh/, @repo_files), 0, "Está el script de aprovisionamiento" );
     $README =  read_text( "$repo_dir/README.md");
     my ($deployment_ip) = ($README =~ /(?:[Dd]espliegue|[Dd]eployment):.*?(\S+)\s+/);
