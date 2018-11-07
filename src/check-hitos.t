@@ -70,17 +70,10 @@ EOC
     }
   }
 
-  if ( $this_hito > 1 ) { # Comprobar provisionamiento
-    isnt( grep( /.yml/, @repo_files), 0, "Hay algún playbook en YAML presente" );
-    isnt( grep( /provision/, @repo_files), 0, "Hay un directorio 'provision'" );
-    isnt( grep( m{provision/\w+}, @repo_files), 0, "El directorio 'provision' no está vacío" );
-  }
-
   my $README;
-  $README =  read_text( "$repo_dir/README.md");
 
-  if ( $this_hito > 2 ) { # Despliegue en algún lado
-    doing("hito 3");
+  if ( $this_hito > 1 ) { # Despliegue en algún lado
+    $README =  read_text( "$repo_dir/README.md");
     my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment)[^\n]+(https://\S+)\b});
     if ( $deployment_url ) {
       diag "☑ Hallado URL de despliegue $deployment_url";
@@ -89,7 +82,7 @@ EOC
     }
     ok( $deployment_url, "URL de despliegue hito 3");
   SKIP: {
-      skip "Ya en el hito siguiente", 2 unless $this_hito == 3;
+      skip "Ya en el hito siguiente", 2 unless $this_hito == 2;
       my $status = get($deployment_url);
       if ( ! $status || $status =~ /html/ ) {
 	$status = get( "$deployment_url/status"); # Por si acaso han movido la ruta
@@ -97,11 +90,11 @@ EOC
       ok( $status, "Despliegue hecho en $deployment_url" );
       say "Respuesta ", $status;
       my $status_ref = from_json( $status );
-      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $body de $deployment_url correcto");
+      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status de $deployment_url correcto");
     }
   }
   
-  if ( $this_hito > 3 ) { # Comprobar script para acopiar las máquinas 
+  if ( $this_hito > 2 ) { # Comprobar script para acopiar las máquinas 
     isnt( grep( /acopio.sh/, @repo_files), 0, "Está el script de aprovisionamiento" );
     $README =  read_text( "$repo_dir/README.md");
     my ($deployment_ip) = ($README =~ /(?:[Dd]espliegue|[Dd]eployment):.*?(\S+)\s+/);

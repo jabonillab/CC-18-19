@@ -28,8 +28,19 @@
 
 - [X] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
-## Objetivos segunda semana
+## Segunda semana
 
 - [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [ ] Entender las características de las aplicaciones que se despliegan en la nube.
+
+## Cuarta semana (tercera no habia)
+
+- [ ] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [X] Entender en qué consiste los servicios web y cómo desplegarlos en la nube
+- [ ] Revisar los resultados del primer hito y entender los fallos. Si no se ha entregado todavía, lo dejamos para la clase del viernes.
+- [ ] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, [X] Python y [ ] Ruby.
+- [X] Darse de alta en servicios PaaS como zeit.co y Heroku.
+- [ ] Establecido el tema de la charla de recuperación: provisión con Ansible.
+- [X] Entender por qué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando un squash commits con git rebase -i.
+
 
