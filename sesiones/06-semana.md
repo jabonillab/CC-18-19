@@ -10,7 +10,14 @@
 
 ## Objetivos adicionales
 
-* Entender 
+* Entender el concepto de servicio web.
+
+* Entender qué es lo que se requiere en el hito 2 y las diferentes
+  capas
+  * Clase/Módulo + Test
+  * Servicio web + Test
+  * Travis (para ejecutar los tests)
+  * Descripción de la infraestructura virtual.
 
 * Conocer diferentes lugares donde haya imágenes de sistemas
   operativos listas para usar.
