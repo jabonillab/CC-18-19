@@ -37,8 +37,8 @@
 
 * *Proyecto*: Continuamos el
   [hito 2 del proyecto](https://jj.github.io/CC/documentos/proyecto/2.PaaS).
-  La entrega pasa al **12 de noviembre**. 
+  La entrega pasa al **15 de noviembre**. 
 
 ## Siguiente semana
 
-[Séptima semana](7-semana.md)
+[Séptima semana](07-semana.md)
