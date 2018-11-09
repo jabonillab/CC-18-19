@@ -30,10 +30,10 @@
 - [X] Entender por qué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando un squash commits con git rebase -i.
 
 ## Semana #5
-1. [ ] Comprender el tipo de aplicaciones que se despliegan en la nube.
-2. [ ] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software, que se verá en [este seminario](https://www.meetup.com/es-ES/Granada-Geek/events/255973562/), como avance al tema siguiente.
+1. [X] Comprender el tipo de aplicaciones que se despliegan en la nube.
+2. [X] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software, que se verá en [este seminario](https://www.meetup.com/es-ES/Granada-Geek/events/255973562/), como avance al tema siguiente.
 3. [ ] Repasar los reenvíos del hito 2 y los que no han reenviado todavía.
-4. [X] Conocer las diferentes ofertas de PaaS en la nube.
+4. [X] Conocer las diferentes ofertas de PaaS en la nube. [Ejercicio enlace](https://github.com/alex1ai/ejercicios-CC-18-19/blob/master/tema3.md)
 5. [X] Instalar las herramientas de línea de órdenes de las herramientas cloud.
 6. [X] Hacerse con alguna cuenta gratuita o bonificada de cloud. [Enlace](https://github.com/alex1ai/ejercicios-CC-18-19/tree/master/img/zeit.png)
 7. [X] Aprender la mínimo de los lenguajes necesarios para trabajar en la
