@@ -17,3 +17,16 @@
 - [x] Aprender a instalar software libre en Linux. 
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+
+## Segunda Semana
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Entender que es un microservicio.
+- [x] Haber asistido a la charla "De 0 a cloud" el viernes 19 de octubre.
+- [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
+- [x] Haber entendido el proyecto a realizar en la asignatura.
+- [x] Manejar los diferentes recursos de línea de órdenes.
+- [x] Manejar la historia de comandos anteriores.
+- [x] Conocer permisos y cuales usar en cada momento, entendidos como permisos de archivos y carpetas.
+- [x] Comprender el primer hito del proyecto.
