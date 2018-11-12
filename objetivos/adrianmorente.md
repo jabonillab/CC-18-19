@@ -33,19 +33,26 @@
 
 ### Objetivos a cubrir en la cuarta semana
 
-- [ ] Entender las arquitecturas de software en la nube de uso en la actualidad.
-- [ ] Comprender el papel fundamental de la infraestructura virtual en este proceso.
-- [ ] Entender en qué consisten los servicios web y cómo desplegarlos en la nube.
-- [ ] Revisar los resultados del primer hito y entender los fallos.
-- [ ] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento (Python y Ruby).
-- [ ] Darse de alta en servicios PaaS como zeit.co y Heroku.
-- [ ] Entender por qué no se hace `git pull` sino `git pull --rebase` y cómo arreglarlo en ese caso usando un *squash commit* con `git rebase -i`.
+- [X] Entender las arquitecturas de software en la nube de uso en la actualidad.
+- [X] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [X] Entender en qué consisten los servicios web y cómo desplegarlos en la nube.
+- [X] Revisar los resultados del primer hito y entender los fallos.
+- [X] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento (Python y Ruby).
+- [X] Darse de alta en servicios PaaS como zeit.co y Heroku.
+- [X] Entender por qué no se hace `git pull` sino `git pull --rebase` y cómo arreglarlo en ese caso usando un *squash commit* con `git rebase -i`.
 
 
 ### Objetivos a cubrir en la quinta semana
 
-- [ ] Comprender el tipo de aplicaciones que se despliegan en la nube.
-- [ ] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software.
-- [ ] Conocer las diferentes ofertas de PaaS en la nube.
-- [ ] Instalar las herramientas de línea de órdenes de las herramientas cloud.
-- [ ] Trabajar en el segundo hito.
+- [X] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [X] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software.
+- [X] Conocer las diferentes ofertas de PaaS en la nube.
+- [X] Instalar las herramientas de línea de órdenes de las herramientas cloud.
+- [X] Trabajar en el segundo hito.
+
+
+### Objetivos a cubrir en la sexta semana
+
+- [X] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
+- [X] Entender los diferentes conceptos subyacentes: servicio, estado.
+- [X] Terminar y entregar el segundo hito.
