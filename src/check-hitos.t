@@ -80,7 +80,7 @@ EOC
     } else {
       diag "✗ Problemas extrayendo URL de despliegue";
     }
-    ok( $deployment_url, "URL de despliegue hito 3");
+    ok( $deployment_url, "URL de despliegue hito 2");
   SKIP: {
       skip "Ya en el hito siguiente", 2 unless $this_hito == 2;
       my $status = get($deployment_url);
