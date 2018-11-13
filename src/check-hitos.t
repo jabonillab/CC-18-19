@@ -181,7 +181,7 @@ sub how_many_milestones {
 sub closed_issues {
   my ($user,$repo) = @_;
   my $page = get( "https://github.com/$user/$repo".'/issues?q=is%3Aissue+is%3Aclosed' );
-  my (@closed_issues ) = ( $page =~ m{<li\s+(id=.+?</li>)}gs );
+  my (@closed_issues ) = ( $page =~ m{<a\s+(id=\".+?\")}gs );
   return @closed_issues;
 
 }
