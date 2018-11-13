@@ -23,7 +23,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | MARTÍN VALERA, JONATHAN | | |
 | MESA GONZÁLEZ, JESÚS | | |
 | MORALES GARZON,  ANDREA | | |
-| MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 1.4 |
+| MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 1.5 |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | | |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
