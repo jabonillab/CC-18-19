@@ -16,8 +16,7 @@ BEGIN {
 our ($VERSION, @ISA, @EXPORT, @EXPORT_OK);
 
 # Totally unstable API.
-$VERSION = '0.42';
-# pulled from github, commit 217f2767cbcb562872437eed4dec62e00846d90c
+$VERSION = '0.40';
 
 
 =head1 SYNOPSIS
@@ -60,28 +59,25 @@ require Exporter;
                 command_bidi_pipe command_close_bidi_pipe
                 version exec_path html_path hash_object git_cmd_try
                 remote_refs prompt
-                get_tz_offset get_record
+                get_tz_offset
                 credential credential_read credential_write
-                temp_acquire temp_is_locked temp_release temp_reset temp_path
-                unquote_path);
+                temp_acquire temp_is_locked temp_release temp_reset temp_path);
 
 
 =head1 DESCRIPTION
 
-[MAINTAINER NOTE: This is Git.pm, plus the other files in the perl/Git directory,
-from github's git/git, which is a mirror of the git source.  I (cpan msouth, or
-current maintainer) update the VERSION string (necessary on CPAN because of another
-CPAN distribution that confused the CPAN toolchain about which was the actual
-official Git.pm), add this explanatory paragraph, and use Dist::Zilla to package
-and release on CPAN.  The only reason that I know of that you would need this is
-if you are using something like Git::Hooks and you are using a perlbrewed (or
-otherwise separate) perl from the one git is using on your system (e.g. if you
-have a dev perl that’s separate from system perl, and git uses the system perl.
-Then the Git.pm gets installed in the system lib and you have no way of getting
-it from CPAN, so your code--that uses modules that depend on Git.pm--doesn’t work).
-I try to keep this up to date, so that if you do pull this from CPAN it will be,
-hopefully, identical in functionality to the Git.pm and Git/*.pm from the git
-distribution.  If that is not the case, contact me and I'll look into it.]
+This is the Git.pm from github's git/git, which is a mirror of the git source.
+I (cpan msouth, or current maintainer) update the VERSION string here, and 
+maintain this little bit of POD.  That's it.  The only reason you would
+need this is if you are using something like Git::Hooks and you are using
+a perlbrewed (or otherwise separate) perl from the one git is using on your
+system (e.g. if you have a dev perl that's separate from system perl and git
+uses the system perl.  Then the Git.pm gets installed in the system lib and you
+have no way of getting it from CPAN, so your code that uses modules that 
+depend on it doesn't work).  Except for this paragraph and the VERSION
+string, this is just a copy of the latests version of perl/Git.pm from 
+https://raw.github.com/git/git/master/perl/Git.pm .  Or, at least, it should
+be--let me know if it's out of date and I hadn't noticed.)
 
 This module provides Perl scripts easy way to interface the Git version control
 system. The modules have an easy and well-tested way to call arbitrary Git
@@ -205,8 +201,7 @@ sub repository {
 		};
 
 		if ($dir) {
-			_verify_require();
-			File::Spec->file_name_is_absolute($dir) or $dir = $opts{Directory} . '/' . $dir;
+			$dir =~ m#^/# or $dir = $opts{Directory} . '/' . $dir;
 			$opts{Repository} = abs_path($dir);
 
 			# If --git-dir went ok, this shouldn't die either.
@@ -410,7 +405,7 @@ sub command_close_pipe {
 Execute the given C<COMMAND> in the same way as command_output_pipe()
 does but return both an input pipe filehandle and an output pipe filehandle.
 
-The function will return C<($pid, $pipe_in, $pipe_out, $ctx)>.
+The function will return return C<($pid, $pipe_in, $pipe_out, $ctx)>.
 See C<command_close_bidi_pipe()> for details.
 
 =cut
@@ -548,27 +543,13 @@ If TIME is not supplied, the current local time is used.
 =cut
 
 sub get_tz_offset {
-	# some systems don't handle or mishandle %z, so be creative.
+	# some systmes don't handle or mishandle %z, so be creative.
 	my $t = shift || time;
 	my $gm = timegm(localtime($t));
 	my $sign = qw( + + - )[ $gm <=> $t ];
 	return sprintf("%s%02d%02d", $sign, (gmtime(abs($t - $gm)))[2,1]);
 }
 
-=item get_record ( FILEHANDLE, INPUT_RECORD_SEPARATOR )
-
-Read one record from FILEHANDLE delimited by INPUT_RECORD_SEPARATOR,
-removing any trailing INPUT_RECORD_SEPARATOR.
-
-=cut
-
-sub get_record {
-	my ($fh, $rs) = @_;
-	local $/ = $rs;
-	my $rec = <$fh>;
-	chomp $rec if defined $rs;
-	$rec;
-}
 
 =item prompt ( PROMPT , ISPASSWORD  )
 
@@ -727,7 +708,7 @@ Retrieve the integer configuration C<VARIABLE>. The return value
 is simple decimal number.  An optional value suffix of 'k', 'm',
 or 'g' in the config file will cause the value to be multiplied
 by 1024, 1048576 (1024^2), or 1073741824 (1024^3) prior to output.
-It would return C<undef> if configuration variable is not defined.
+It would return C<undef> if configuration variable is not defined,
 
 =cut
 
@@ -736,7 +717,7 @@ sub config_int {
 }
 
 # Common subroutine to implement bulk of what the config* family of methods
-# do. This currently wraps command('config') so it is not so fast.
+# do. This curently wraps command('config') so it is not so fast.
 sub _config_common {
 	my ($opts) = shift @_;
 	my ($self, $var) = _maybe_self(@_);
@@ -896,76 +877,6 @@ sub ident_person {
 	return "$ident[0] <$ident[1]>";
 }
 
-=item parse_mailboxes
-
-Return an array of mailboxes extracted from a string.
-
-=cut
-
-# Very close to Mail::Address's parser, but we still have minor
-# differences in some cases (see t9000 for examples).
-sub parse_mailboxes {
-	my $re_comment = qr/\((?:[^)]*)\)/;
-	my $re_quote = qr/"(?:[^\"\\]|\\.)*"/;
-	my $re_word = qr/(?:[^]["\s()<>:;@\\,.]|\\.)+/;
-
-	# divide the string in tokens of the above form
-	my $re_token = qr/(?:$re_quote|$re_word|$re_comment|\S)/;
-	my @tokens = map { $_ =~ /\s*($re_token)\s*/g } @_;
-	my $end_of_addr_seen = 0;
-
-	# add a delimiter to simplify treatment for the last mailbox
-	push @tokens, ",";
-
-	my (@addr_list, @phrase, @address, @comment, @buffer) = ();
-	foreach my $token (@tokens) {
-		if ($token =~ /^[,;]$/) {
-			# if buffer still contains undeterminated strings
-			# append it at the end of @address or @phrase
-			if ($end_of_addr_seen) {
-				push @phrase, @buffer;
-			} else {
-				push @address, @buffer;
-			}
-
-			my $str_phrase = join ' ', @phrase;
-			my $str_address = join '', @address;
-			my $str_comment = join ' ', @comment;
-
-			# quote are necessary if phrase contains
-			# special characters
-			if ($str_phrase =~ /[][()<>:;@\\,.\000-\037\177]/) {
-				$str_phrase =~ s/(^|[^\\])"/$1/g;
-				$str_phrase = qq["$str_phrase"];
-			}
-
-			# add "<>" around the address if necessary
-			if ($str_address ne "" && $str_phrase ne "") {
-				$str_address = qq[<$str_address>];
-			}
-
-			my $str_mailbox = "$str_phrase $str_address $str_comment";
-			$str_mailbox =~ s/^\s*|\s*$//g;
-			push @addr_list, $str_mailbox if ($str_mailbox);
-
-			@phrase = @address = @comment = @buffer = ();
-			$end_of_addr_seen = 0;
-		} elsif ($token =~ /^\(/) {
-			push @comment, $token;
-		} elsif ($token eq "<") {
-			push @phrase, (splice @address), (splice @buffer);
-		} elsif ($token eq ">") {
-			$end_of_addr_seen = 1;
-			push @address, (splice @buffer);
-		} elsif ($token eq "@" && !$end_of_addr_seen) {
-			push @address, (splice @buffer), "@";
-		} else {
-			push @buffer, $token;
-		}
-	}
-
-	return @addr_list;
-}
 
 =item hash_object ( TYPE, FILENAME )
 
@@ -1396,11 +1307,8 @@ sub _temp_cache {
 			$tmpdir = $self->repo_path();
 		}
 
-		my $n = $name;
-		$n =~ s/\W/_/g; # no strange chars
-
 		($$temp_fd, $fname) = File::Temp::tempfile(
-			"Git_${n}_XXXXXX", UNLINK => 1, DIR => $tmpdir,
+			'Git_XXXXXX', UNLINK => 1, DIR => $tmpdir,
 			) or throw Error::Simple("couldn't open new temp file");
 
 		$$temp_fd->autoflush;
@@ -1454,95 +1362,6 @@ sub END {
 }
 
 } # %TEMP_* Lexical Context
-
-=item prefix_lines ( PREFIX, STRING [, STRING... ])
-
-Prefixes lines in C<STRING> with C<PREFIX>.
-
-=cut
-
-sub prefix_lines {
-	my $prefix = shift;
-	my $string = join("\n", @_);
-	$string =~ s/^/$prefix/mg;
-	return $string;
-}
-
-=item unquote_path ( PATH )
-
-Unquote a quoted path containing c-escapes as returned by ls-files etc.
-when not using -z or when parsing the output of diff -u.
-
-=cut
-
-{
-	my %cquote_map = (
-		"a" => chr(7),
-		"b" => chr(8),
-		"t" => chr(9),
-		"n" => chr(10),
-		"v" => chr(11),
-		"f" => chr(12),
-		"r" => chr(13),
-		"\\" => "\\",
-		"\042" => "\042",
-	);
-
-	sub unquote_path {
-		local ($_) = @_;
-		my ($retval, $remainder);
-		if (!/^\042(.*)\042$/) {
-			return $_;
-		}
-		($_, $retval) = ($1, "");
-		while (/^([^\\]*)\\(.*)$/) {
-			$remainder = $2;
-			$retval .= $1;
-			for ($remainder) {
-				if (/^([0-3][0-7][0-7])(.*)$/) {
-					$retval .= chr(oct($1));
-					$_ = $2;
-					last;
-				}
-				if (/^([\\\042abtnvfr])(.*)$/) {
-					$retval .= $cquote_map{$1};
-					$_ = $2;
-					last;
-				}
-				# This is malformed
-				throw Error::Simple("invalid quoted path $_[0]");
-			}
-			$_ = $remainder;
-		}
-		$retval .= $_;
-		return $retval;
-	}
-}
-
-=item get_comment_line_char ( )
-
-Gets the core.commentchar configuration value.
-The value falls-back to '#' if core.commentchar is set to 'auto'.
-
-=cut
-
-sub get_comment_line_char {
-	my $comment_line_char = config("core.commentchar") || '#';
-	$comment_line_char = '#' if ($comment_line_char eq 'auto');
-	$comment_line_char = '#' if (length($comment_line_char) != 1);
-	return $comment_line_char;
-}
-
-=item comment_lines ( STRING [, STRING... ])
-
-Comments lines following core.commentchar configuration.
-
-=cut
-
-sub comment_lines {
-	my $comment_line_char = get_comment_line_char;
-	return prefix_lines("$comment_line_char ", @_);
-}
 
 =back
 
