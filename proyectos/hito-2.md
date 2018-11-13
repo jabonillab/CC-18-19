@@ -27,7 +27,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | | |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
-| SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 2.1 |
+| SAMANIEGO MARTINEZ,  SERGIO | | |
 | SERRANO PEREZ,  JUAN CARLOS | | |
 | TATBAK,  EMRE | | |
 | TRILLO VÍLCHEZ,  JOSE RAMÓN | | |
