@@ -57174,9 +57174,9 @@ EOC
     } else {
       diag "✗ Problemas extrayendo URL de despliegue";
     }
-    ok( $deployment_url, "URL de despliegue hito 3");
+    ok( $deployment_url, "URL de despliegue hito 2");
   SKIP: {
-      skip "Ya en el hito siguiente", 2 unless $this_hito == 3;
+      skip "Ya en el hito siguiente", 2 unless $this_hito == 2;
       my $status = get($deployment_url);
       if ( ! $status || $status =~ /html/ ) {
 	$status = get( "$deployment_url/status"); # Por si acaso han movido la ruta
@@ -57275,7 +57275,7 @@ sub how_many_milestones {
 sub closed_issues {
   my ($user,$repo) = @_;
   my $page = get( "https://github.com/$user/$repo".'/issues?q=is%3Aissue+is%3Aclosed' );
-  my (@closed_issues ) = ( $page =~ m{<li\s+(id=.+?</li>)}gs );
+  my (@closed_issues ) = ( $page =~ m{<a\s+(id=\".+?\")}gs );
   return @closed_issues;
 
 }
