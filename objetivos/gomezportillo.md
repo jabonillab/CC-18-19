@@ -23,3 +23,15 @@
 - [x] Entender el tipo de proyecto que hay que llevar a cabo en la asignatura y obtener una idea principal del mismo.
 - [x] Lectura y comprensión del concepto de microservicios del repositorio de clase
 - [x] Asistir a la charla recomendada por la asignatura "0 a Cloud".
+
+## Tercera y cuarta semana
+
+- [x] Entender las arquitecturas de software de uso en la actualidad.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender en qué consiste los servicios web y cómo desplegarlos en la nube.
+- [x] Revisar los resultados del primer hito y entender los fallos.
+- [x] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, Python y Ruby
+- [x] Darse de alta en servicios PaaS como zeit.co y Heroku.
+- [x] Establecido el tema de la charla de recuperación: provisión con Ansible.
+- [ ] Entender por qué no se hace `git pull` sino `git pull --rebase` y como arreglarlo en ese caso usando git [squash](https://github.com/git/git/blob/master/Documentation/RelNotes/1.7.12.txt#L59). Una cosa que me parece muy util también es `git stash`.
+- [x] Proponer temas para el siguiente seminario/recuperación.
