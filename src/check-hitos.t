@@ -64,7 +64,7 @@ EOC
     my @closed_issues =  closed_issues($user, $name);
     cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). " issues cerrado(s)");
     for my $i (@closed_issues) {
-      my ($issue_id) = ($i =~ /issue_(\d+)/);
+      my ($issue_id) = ($i =~ /issue-id-(\d+)/);
       
       is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
     }
