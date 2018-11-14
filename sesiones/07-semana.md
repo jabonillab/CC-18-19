@@ -13,12 +13,14 @@ https://www.meetup.com/es-ES/Granada-Geek/events/256243121/
 
 ## Otros objetivos
 
-* Terminar el segundo hito. 
+* Terminar el segundo hito.
+  * Entender versiones y su especificación en Travis.
+  * Entender los remotes de git.
 
 * Tener manejo básico de los lenguajes usados en herramientas de
   provisionamiento, Python y Ruby.
   
-* Poner a punto hipervisores de uso local y sitios online que permitan
+* Poner a punto hipervisores de uso local y cuentas cloud que permitan
   usar máquinas virtuales para provisionar.
   
 * Ya se ha recuperado mediante seminarios las 4 horas de clase de principios de octubre. Si hace falta algún otro seminario, simplemente solicitadlo por el grupo o se comenta ahora en clase.
