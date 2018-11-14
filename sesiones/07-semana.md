@@ -1,4 +1,4 @@
-# Tercera semana, 14 de noviembre de 2018
+# Séptima semana, 14 de noviembre de 2018
 
 Recordatorio: el lunes a las 13:30 seminario-recuperación de clase
 https://www.meetup.com/es-ES/Granada-Geek/events/256243121/
