@@ -38,7 +38,7 @@ https://www.meetup.com/es-ES/Granada-Geek/events/255394720/
 
 * *Práctica*:
   [Hito correspondiente](https://jj.github.io/CC/documentos/proyecto/2.PaaS). *Fecha
-  de entrega*: **7 de noviembre**.
+  de entrega*: **15 de noviembre**.
 
 
 ## Siguiente semana
