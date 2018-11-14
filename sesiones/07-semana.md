@@ -16,6 +16,8 @@ https://www.meetup.com/es-ES/Granada-Geek/events/256243121/
 * Terminar el segundo hito.
   * Entender versiones y su especificación en Travis.
   * Entender los remotes de git.
+  * Entender el concepto de versión, tal como viene en [el documento
+    de reenvíos](http://jj.github.io/CC/documentos/proyecto/Reenvios)
 
 * Tener manejo básico de los lenguajes usados en herramientas de
   provisionamiento, Python y Ruby.
@@ -32,10 +34,10 @@ https://www.meetup.com/es-ES/Granada-Geek/events/256243121/
 * *Teoría*: [Material de este tema](https://jj.github.io/CC/documentos/temas/Provision). También se puede consultar el [seminario sobre Ansible](https://www.youtube.com/watch?v=gFd9aj78_SM) de la semana pasada.
 
 * *Práctica*:
-  [Hito correspondiente](https://jj.github.io/CC/documentos/proyecto/2.Provisionamiento). *Fecha
-  de entrega*: **7 de noviembre**. 
+  [Hito correspondiente](https://jj.github.io/CC/documentos/proyecto/3.Provisionamiento). *Fecha
+  de entrega*: **28 de noviembre**. 
 
 
 ## Siguiente semana
 
-[Quinta semana](05-semana.md)
+[Octava semana](08-semana.md)
