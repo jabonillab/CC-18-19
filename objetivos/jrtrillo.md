@@ -46,3 +46,11 @@
 - [x] Entender el tipo de proyecto que hay que llevar a cabo en la asignatura y obtener una idea principal del mismo.
 - [x] Lectura y comprensión del concepto de microservicios del repositorio de clase
 - [x] Asistir a la charla recomendada por la asignatura "0 a Cloud". -> La charla fue a las 17:00 impartida por Israel Blanca y en el aula 1.7. Sentado en las últimas filas cerca del pasillo de la derecha y en la misma fila que había 3 personas de origen asiático con pegatinas. 
+
+
+## Objetivos Tercera Semana (17 Octubre)
+
+-[x]Seminario de microservicios -> Se ha realizado la lectura y comprensión del siguiente [enlace](https://www.meetup.com/es-ES/Granada-Geek/events/255394720/)
+-[x]Git para todo el mundo, también grabado en Youtube. -> Se estuvo presente durante la conferencia.
+
+## Objetivos Cuarta Semana (17 Octubre)
