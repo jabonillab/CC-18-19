@@ -17,13 +17,8 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | CORREA FERNANDEZ,  GEMA | | |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
-<<<<<<< HEAD
-| GALLEGO QUERO,  LUIS | | |
-| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 2.2 |
-=======
 | GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 2 |
-| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
->>>>>>> Entrega hito 2
+| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 2.2 |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 1 |
 | MARTÍN VALERA, JONATHAN | | |
 | MESA GONZÁLEZ, JESÚS | | |
