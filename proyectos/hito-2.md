@@ -11,23 +11,23 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | ARCOS ANEAS, CARMEN | | |
 | BAUTISTA CASTRO,  JAIRO DANIEL | | |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | | |
-| CABRERA GUTIERREZ,  ANTONIO JAVIER | | |
+| CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 1.1 |
 | CAMPOY NIEVES, ALEJANDRO | | |
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | | |
-| DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 2 |
+| DE LA TORRE RODRIGUEZ,  ADRIAN | | |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
 | GALLEGO QUERO,  LUIS | | |
-| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 1 |
-| GRIMM,  ALEXANDER MANUEL JOSEF | | |
+| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
+| GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 1 |
 | MARTÍN VALERA, JONATHAN | | |
 | MESA GONZÁLEZ, JESÚS | | |
 | MORALES GARZON,  ANDREA | | |
-| MORENTE GABALDÓN, ADRIÁN | | |
+| MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 5 |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | | |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
-| SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 2 |
+| SAMANIEGO MARTINEZ,  SERGIO | | |
 | SERRANO PEREZ,  JUAN CARLOS | | |
 | TATBAK,  EMRE | | |
 | TRILLO VÍLCHEZ,  JOSE RAMÓN | | |

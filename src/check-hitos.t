@@ -64,7 +64,7 @@ EOC
     my @closed_issues =  closed_issues($user, $name);
     cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). " issues cerrado(s)");
     for my $i (@closed_issues) {
-      my ($issue_id) = ($i =~ /issue_(\d+)/);
+      my ($issue_id) = ($i =~ /issue-id-(\d+)/);
       
       is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
     }
@@ -80,7 +80,7 @@ EOC
     } else {
       diag "✗ Problemas extrayendo URL de despliegue";
     }
-    ok( $deployment_url, "URL de despliegue hito 3");
+    ok( $deployment_url, "URL de despliegue hito 2");
   SKIP: {
       skip "Ya en el hito siguiente", 2 unless $this_hito == 2;
       my $status = get($deployment_url);
@@ -181,7 +181,7 @@ sub how_many_milestones {
 sub closed_issues {
   my ($user,$repo) = @_;
   my $page = get( "https://github.com/$user/$repo".'/issues?q=is%3Aissue+is%3Aclosed' );
-  my (@closed_issues ) = ( $page =~ m{<li\s+(id=.+?</li>)}gs );
+  my (@closed_issues ) = ( $page =~ m{<a\s+(id=\".+?\")}gs );
   return @closed_issues;
 
 }
