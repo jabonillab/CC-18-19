@@ -17,7 +17,8 @@ https://www.meetup.com/es-ES/Granada-Geek/events/256243121/
   * Entender versiones y su especificación en Travis.
   * Entender los remotes de git.
   * Entender el concepto de versión, tal como viene en [el documento
-    de reenvíos](http://jj.github.io/CC/documentos/proyecto/Reenvios)
+  de reenvíos](http://jj.github.io/CC/documentos/proyecto/Reenvios).
+  * Entender los issues.
 
 * Tener manejo básico de los lenguajes usados en herramientas de
   provisionamiento, Python y Ruby.
