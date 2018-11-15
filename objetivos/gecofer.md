@@ -16,10 +16,10 @@
 
 ## Segunda Semana (10 de Octubre de 2018)
 
-- [ ] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [x] Entender las características de las aplicaciones que se despliegan en la nube.
 - [x] Entender que es un microservicio.
-- [x] Haber asistido a la charla "De 0 a cloud" el viernes 19 de octubre ([Ver apuntes)](https://github.com/Gecofer/ejercicios-CC/blob/master/hito1/Charla0aCloud.pdf))
+- [x] Haber asistido a la charla "De 0 a cloud" el viernes 19 de octubre ([Ver apuntes)](https://github.com/Gecofer/ejercicios-CC/blob/master/hito1/Charla0aCloud.pdf)).
 - [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
 - [x] Haber entendido el proyecto a realizar en la asignatura.
 - [x] Manejar los diferentes recursos de línea de órdenes.
@@ -42,7 +42,7 @@
 - [x] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software.
 - [x] Haber asistido al seminario sobre [microservicios](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/charlas/microservicios.md).
 - [x] Repasar los reenvíos del tema 2.
-- [x] Conocer las diferentes ofertas de PaaS en la nube ([ver objetivo 2](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosQuintaSemana.md))..
+- [x] Conocer las diferentes ofertas de PaaS en la nube ([ver objetivo 2](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosQuintaSemana.md)).
 - [x] Instalar las herramientas de línea de órdenes de las herramientas cloud, en este caso de Heroku ([ver objetivo 1](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosQuintaSemana.md)).
 - [x] Aprender lo mínimo de Python para trabajar en la nube.
 - [ ] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
