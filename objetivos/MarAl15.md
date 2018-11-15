@@ -14,7 +14,7 @@
 ## Segunda semana
 
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube. (Logrado a partir de la asistencia al seminario "De 0 a Cloud" - unas pequeñas notas de esta charla se encuentran [aquí](https://github.com/MarAl15/EjerciciosCC/blob/master/Seminarios/De0aCloud.md).)
-- [x] Entender las características de las aplicaciones que se despliegan en la nube. (Conseguido tras la lectura del [tema 1](http://jj.github.io/CC/documentos/temas/Arquitecturas_para_la_nube), realizando además los [ejercicios correspondientes](https://github.com/MarAl15/EjerciciosCC/blob/master/tema1.md).)
+- [x] Entender las características de las aplicaciones que se despliegan en la nube. (Conseguido tras la lectura del [tema 1](http://jj.github.io/CC/documentos/temas/Arquitecturas_para_la_nube), realizando además los [ejercicios correspondientes](https://github.com/MarAl15/EjerciciosCC/blob/master/Tema0/tema0.md).)
 
 ### Otros objetivos
 - [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux. 
@@ -22,3 +22,56 @@
 	- Conocer permisos y cuales usar en cada momento (`chmod`).
 - [x] Haber entregado el [hito 0](https://github.com/JJ/CC-18-19/blob/master/proyectos/hito-0.md) del proyecto y entender qué se buscaba con el mismo.
 - [x] Comprender el [primer hito](https://github.com/MarAl15/ProyectoCC) del proyecto.
+
+
+## Tercera semana
+
+- [x] [Seminario de microservicios](https://www.youtube.com/watch?v=sh67hQwU14Y&feature=youtu.be)
+- [x] [Git para todo el mundo](https://www.youtube.com/watch?v=gmXyJI01qa8&feature=youtu.be)
+
+
+## Cuarta semana
+
+- [x] Entender las arquitecturas de sofware en la nube de uso en la actualidad. (Conseguido tras la lectura del tema [Arquitecturas software para la nube](http://jj.github.io/CC/documentos/temas/Arquitecturas_para_la_nube), realizando además los [ejercicios correspondientes](https://github.com/MarAl15/EjerciciosCC/blob/master/Tema0/tema0.md).)
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [x] Entender en qué consiste los [servicios web y cómo despleglarlos en la nube](https://jj.github.io/CC/documentos/temas/PaaS). Se ha realizado los [ejercicios relacionados](https://github.com/MarAl15/EjerciciosCC/blob/master/Tema2/tema2.md).
+
+### Otros objetivos
+- [x] Revisar los resultados del primer hito y entender los fallos.
+- [x] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, [Python y Ruby](https://github.com/MarAl15/EjerciciosCC/blob/master/Objetivos/images/python-ruby.png).
+- [x] Darse de alta en el servicio PaaS de [Heroku](https://github.com/MarAl15/EjerciciosCC/blob/master/Tema2/images/heroku.png) y [OpenShift](https://github.com/MarAl15/EjerciciosCC/blob/master/Tema2/images/openshift.png).
+- [x] Entender por qué no se hace `git pull` sino `git pull --rebase` y como arreglarlo en este caso usando un squash commits con `git rebase -i`.
+
+
+## Quinta semana
+
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software. [Seminario de provisionamiento de máquinas virtuales con Ansible](http://youtu.be/gFd9aj78_SM).
+
+
+### Otros objetivos
+
+- [x] Repasar los reenvíos del hito 2.
+- [x] Conocer las diferentes ofertas de PaaS en la nube.
+- [x] Instalar las herramientas de línea de órdenes de las herramientas cloud.
+- [x] Hacerse con alguna cuenta gratuita o bonificada de cloud.
+- [ ] Aprender lo mínimo de los lenguajes para trabajar en la nube:
+	- [ ] Perl
+	- [x] Python
+	- [x] Ruby
+	
+## Sexta semana
+
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado.
+
+### Otros objetivos
+- [x] Entender el concepto de servicio web.
+- [x] Entender qué es lo que se requiere en el hito 2 y las diferentes capas:
+	- Clase/Módulo + Test.
+	- Servicio web + Test.
+	- Travis (para ejecutar los tests).
+	- Descripción de la infraestructura virtual.
+- [ ] Conocer diferentes lugares donde haya imágenes de sistemas operativos listos para usar. 
+- [x] Instalar y configurar diferentes sistemas de provisionamiento. (Actualmente sólo se ha instalado y configurado Heroku.)
+- [ ] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el _Domain Specific Language_ usado por los mismos.
