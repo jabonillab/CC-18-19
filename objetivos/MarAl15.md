@@ -26,8 +26,8 @@
 
 ## Tercera semana
 
-- [Seminario de microservicios](https://www.youtube.com/watch?v=sh67hQwU14Y&feature=youtu.be)
-- [Git para todo el mundo](https://www.youtube.com/watch?v=gmXyJI01qa8&feature=youtu.be)
+- [x] [Seminario de microservicios](https://www.youtube.com/watch?v=sh67hQwU14Y&feature=youtu.be)
+- [x] [Git para todo el mundo](https://www.youtube.com/watch?v=gmXyJI01qa8&feature=youtu.be)
 
 
 ## Cuarta semana
@@ -40,7 +40,7 @@
 - [x] Revisar los resultados del primer hito y entender los fallos.
 - [x] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, [Python y Ruby](https://github.com/MarAl15/EjerciciosCC/blob/master/Objetivos/images/python-ruby.png).
 - [x] Darse de alta en el servicio PaaS de [Heroku](https://github.com/MarAl15/EjerciciosCC/blob/master/Tema2/images/heroku.png) y [OpenShift](https://github.com/MarAl15/EjerciciosCC/blob/master/Tema2/images/openshift.png).
-- Entender por qué no se hace `git pull` sino `git pull --rebase` y como arreglarlo en este caso usando un squash commits con `git rebase -i`.
+- [x] Entender por qué no se hace `git pull` sino `git pull --rebase` y como arreglarlo en este caso usando un squash commits con `git rebase -i`.
 
 
 ## Quinta semana
