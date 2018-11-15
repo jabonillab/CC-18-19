@@ -46,11 +46,11 @@ Esta semana no tiene objetivos, dado que en la segunda semana solo hubo dos hora
 ### Otros objetivos de la cuarta semana
 
 - [x] Revisar los resultados del primer hito y entender los fallos. Si no se ha entregado todavía, lo dejamos para la clase del viernes.
-- [] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, Python y Ruby.
+- [ ] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, Python y Ruby.
 - [x] Darse de alta en servicios PaaS como zeit.co y Heroku. [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/PaaS/Ejercicio_1.png)
 - [x] Establecido el tema de la charla de recuperación: provisión con Ansible. [Video](http://youtu.be/gFd9aj78_SM)
 - [x] Entender por qué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando un squash commits con git rebase -i. [Enlace](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
-- [] Proponer temas para el siguiente seminario/recuperación.
+- [ ] Proponer temas para el siguiente seminario/recuperación.
 
 ## Quinta semana
 
@@ -59,8 +59,8 @@ Esta semana no tiene objetivos, dado que en la segunda semana solo hubo dos hora
 
 ### Otros objetivos de la quinta semana
 
-- [] Repasar los reenvíos del hito 2 y los que no han reenviado todavía.
+- [ ] Repasar los reenvíos del hito 2 y los que no han reenviado todavía.
 - [x] Conocer las diferentes ofertas de PaaS en la nube.
 - [x] Instalar las herramientas de línea de órdenes de las herramientas cloud.
 - [x] Hacerse con alguna cuenta gratuita o bonificada de cloud. [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/PaaS/Ejercicio_1.png)
-- [] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
+- [ ] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
