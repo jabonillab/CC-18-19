@@ -25,3 +25,37 @@
 - [x] Manejar los diferentes recursos de línea de órdenes.
 - [x] Manejar la historia de comandos anteriores.
 - [x] Conocer permisos y cuales usar en cada momento, entendidos como permisos de archivos y carpetas.
+
+## Cuarta Semana (24 de Octubre de 2018)
+
+- [x] Entender las arquitecturas de software en la nube de uso en la actualidad.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [x] Entender en qué consiste los servicios web y cómo desplegarlos en la nube.
+- [x] Revisar los resultados del primer hito y entender los fallos.
+- [x] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento: Python.
+- [x] Darse de alta en servicios PaaS como Heroku y zeit.co ([ver ejercicio 1](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosCuartaSemana.md)).
+- [x] Entender porqué no se hace `git pull` sino `git pull --rebase` y como arreglarlo en ese caso usando `git squash` ([ver objetivo 1](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosCuartaSemana.md))
+
+## Quinta Semana (31 de Octubre de 2018)
+
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software.
+- [x] Haber asistido al seminario sobre [microservicios](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/charlas/microservicios.md).
+- [x] Repasar los reenvíos del tema 2.
+- [x] Conocer las diferentes ofertas de PaaS en la nube ([ver objetivo 2](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosQuintaSemana.md))..
+- [x] Instalar las herramientas de línea de órdenes de las herramientas cloud, en este caso de Heroku ([ver objetivo 1](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosQuintaSemana.md)).
+- [x] Aprender lo mínimo de Python para trabajar en la nube.
+- [ ] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [ ] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+
+## Sexta Semana (7 de Noviembre de 2018)
+
+- [ ] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar ([ver objetivo 1](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosSextaSemana.md)).
+- [ ] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+- [x] Haber asistido al seminario de Ansible.
+- [ ] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
+- [ ] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+- [x] Haber asistido a la clase [Ansible](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/charlas/ansible.md).
