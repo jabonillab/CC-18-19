@@ -19,7 +19,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
 | GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 2.0.2 |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 2.2 |
-| GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 1 |
+| GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 2.2 |
 | MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 2.0 |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 2.2 |
 | MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 2.2 |
