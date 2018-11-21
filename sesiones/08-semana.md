@@ -18,7 +18,6 @@ cómo trabajan unos con otros.
   * Ver
   [un ejemplo básico de ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml) y
   [otro ejemplo](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml).
-  * Un [ejemplo de Chef Solo](https://github.com/JJ/Infraestructura-como-servicio/blob/4a9685970188fdd91563976d854727f24f54a39c/chef/cookbooks/git/recipes/default.rb).
 
 * Instalar los nuevos sistemas de orquestación correspondientes al
   tema actual.
@@ -27,6 +26,8 @@ cómo trabajan unos con otros.
 
 * Revisar ejemplos y texto del tema nuevo que en se imparte este año
   por primera vez. 
+
+* Proponer un seminario de Chef Workstation para diciembre.
 
 ## Material para esta semana
 
