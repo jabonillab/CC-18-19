@@ -15,6 +15,10 @@ cómo trabajan unos con otros.
 
 * Continuar trabajando en el [hito 3 del proyecto](https://jj.github.io/CC/documentos/proyecto/3.IaaS) del proyecto, resolver las dudas que surjan y
   comentar lo que se ha hallado en el mismo.
+  * Ver
+  [un ejemplo básico de ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml) y
+  [otro ejemplo](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml).
+  * Un [ejemplo de Chef Solo](https://github.com/JJ/Infraestructura-como-servicio/blob/4a9685970188fdd91563976d854727f24f54a39c/chef/cookbooks/git/recipes/default.rb).
 
 * Instalar los nuevos sistemas de orquestación correspondientes al
   tema actual.
