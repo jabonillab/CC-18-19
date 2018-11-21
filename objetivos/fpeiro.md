@@ -38,3 +38,27 @@
 5. Darse de alta en servicios PaaS como zeit.co y Heroku.
 7. Entender por qué no se hace `git pull` sino `git pull --rebase` y como arreglarlo en ese caso usando un squash commits con [`git rebase -i`](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git).
 8. Proponer temas para el siguiente seminario/recuperación.
+
+## [Quinta semana](https://github.com/fpeiro/CC-ejercicios/blob/master/objetivos/05-semana.md)
+1. Comprender el tipo de aplicaciones que se despliegan en la nube.
+2. Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software, que se verá en [este seminario](https://www.meetup.com/es-ES/Granada-Geek/events/255973562/), como avance al tema siguiente.
+3. Repasar los reenvíos del hito 2 y los que no han reenviado todavía.
+4. Conocer las diferentes ofertas de PaaS en la nube.
+5. Instalar las herramientas de línea de órdenes de las herramientas cloud.
+6. Hacerse con alguna cuenta gratuita o bonificada de cloud.
+7. Aprender lo mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
+
+## [Sexta semana](https://github.com/fpeiro/CC-ejercicios/blob/master/objetivos/06-semana.md)
+1. Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
+2. Entender los diferentes conceptos subyacentes: servicio, estado.
+3. Entender el concepto de servicio web.
+4. Entender qué es lo que se requiere en el hito 2 y las diferentes capas
+  - Clase/Módulo + Test
+  - Servicio web + Test
+  - Travis (para ejecutar los tests)
+  - Descripción de la infraestructura virtual.
+5. Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+6. Instalar y configurar diferentes sistemas de provisionamiento.
+7. Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain
+Specific Language usado por los mismos.
+8. Decidir sobre el próximo seminario (19 de noviembre).
