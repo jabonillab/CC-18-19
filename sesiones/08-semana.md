@@ -18,7 +18,8 @@ cómo trabajan unos con otros.
   * Ver
   [un ejemplo básico de ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml) y
   [otro ejemplo](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml).
-
+  * Este [video](https://www.youtube.com/watch?v=gFd9aj78_SM) es un tutorial de introducción a Ansible.
+  
 * Instalar los nuevos sistemas de orquestación correspondientes al
   tema actual.
 
