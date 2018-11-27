@@ -1,6 +1,8 @@
 # Hito 3
 
-Incluye en la tabla inferior un enlace a tu repositorio
+Incluye en la tabla inferior un enlace a tu repositorio. Por favor,
+usa versionado semántico para la versión que pongas en la columna
+correspondiente. 
 
 | Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
