@@ -17,7 +17,7 @@
 6. Hacer uso de los issues y milestone
 7. Incluir descripción del proyecto.
 
-# Semana 3 y 4
+# Semana 3-4-5-6
 
 1. Entender las arquitecturas de software en la nube de uso en la actualidad.
 2. Comprender el paper fundamental de la infraestructura virtual en este proceso.
@@ -36,3 +36,14 @@
 15. Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
 
 Algunos de los objetivos cumplidos se ven reflejados en los [Ejercicios](https://github.com/samahetfield/ejerciciosCC-1819/blob/master/ejerciciosPaaS/EjerciciosSemana4.md)
+
+# Semana 7-8
+
+1. Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+2. Documentar y mantener una plataforma virtual.
+3. Realizar tareas de administración en infraestructura virtual.
+4. Aprender lenguajes de configuración usados en infraestructuras virtuales.
+5. Saber cómo aplicarlos en un caso determinado.
+6. Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
+
+Los ejercicios del tema 3 correspondientes a estas dos semanas se encuentran resueltos en mi [repositorio](https://github.com/samahetfield/ejerciciosCC-1819).
