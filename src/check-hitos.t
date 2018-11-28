@@ -104,7 +104,7 @@ EOC
     check_ip($deployment_ip);
     my $status = get("http://$deployment_ip/status");
     my $status_ref = from_json( $status );
-    like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status de $deployment_url correcto");
+    like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status de $deployment_ip correcto");
   }
   
   if ( $this_hito > 3 ) { # Comprobar script para acopiar las máquinas 
