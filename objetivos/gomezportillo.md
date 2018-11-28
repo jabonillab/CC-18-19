@@ -35,3 +35,14 @@
 - [x] Establecido el tema de la charla de recuperación: provisión con Ansible.
 - [ ] Entender por qué no se hace `git pull` sino `git pull --rebase` y como arreglarlo en ese caso usando git [squash](https://github.com/git/git/blob/master/Documentation/RelNotes/1.7.12.txt#L59). Una cosa que me parece muy util también es `git stash`.
 - [x] Proponer temas para el siguiente seminario/recuperación.
+
+## Quinta semana
+
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software.
+- [x] Asistir al seminario de provisionamiento con Ansible (https://www.meetup.com/es-ES/Granada-Geek/events/255973562/)
+- [x] Repasar los reenvíos del hito 2 y los que no han reenviado todavía.
+- [x] Conocer las diferentes ofertas de PaaS en la nube.
+- [x] Instalar las herramientas de línea de órdenes de las herramientas cloud.
+- [ ] Hacerse con alguna cuenta gratuita o bonificada de cloud.
+- [ ] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube (Perl, Python y Ruby).
