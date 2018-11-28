@@ -13,7 +13,7 @@ cómo trabajan unos con otros.
 
 ## Objetivos adicionales
 
-* Continuar trabajando en el [hito 3 del proyecto](https://jj.github.io/CC/documentos/proyecto/3.IaaS) del proyecto, resolver las dudas que surjan y
+* Continuar trabajando en el [hito 3 del proyecto](https://jj.github.io/CC/documentos/proyecto/3.Pro) del proyecto, resolver las dudas que surjan y
   comentar lo que se ha hallado en el mismo.
   * Ver
   [un ejemplo básico de ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml) y
@@ -35,8 +35,8 @@ cómo trabajan unos con otros.
 * *Teoría*: Terminamos el
   [tercer tema](http://jj.github.io/CC/documentos/temas/Provision).
 
-* *Proyecto*: El [hito 3 del proyecto](https://jj.github.io/CC/documentos/proyecto/3.IaaS). se
-  entregará el siguiente *28 de noviembre*.
+* *Proyecto*: El [hito 3 del proyecto](https://jj.github.io/CC/documentos/proyecto/3.Provisionamiento). se
+  entregará el siguiente *30 de noviembre*.
 
 ## Siguiente semana
 

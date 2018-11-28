@@ -35,8 +35,8 @@ https://www.meetup.com/es-ES/Granada-Geek/events/256243121/
 * *Teoría*: [Material de este tema](https://jj.github.io/CC/documentos/temas/Provision). También se puede consultar el [seminario sobre Ansible](https://www.youtube.com/watch?v=gFd9aj78_SM) de la semana pasada.
 
 * *Práctica*:
-  [Hito correspondiente](https://jj.github.io/CC/documentos/proyecto/3.IaaS). *Fecha
-  de entrega*: **28 de noviembre**. 
+  [Hito correspondiente](https://jj.github.io/CC/documentos/proyecto/3.Provisionamiento). *Fecha
+  de entrega*: **30 de noviembre**. 
 
 
 ## Siguiente semana
