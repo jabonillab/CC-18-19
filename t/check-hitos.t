@@ -48698,8 +48698,21 @@ EOC
       like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status de $deployment_url correcto");
     }
   }
+
+  if ( $this_hito > 2 ) { # Comprobar provisionamiento
+    ok( grep( /.yml/, @repo_files), "Hay algún playbook en YAML presente" );
+    ok( grep( /provision/, @repo_files), "Hay un directorio 'provision'" );
+    ok( grep( m{provision/\w+}, @repo_files), "El directorio 'provision' no está vacío" );
+
+    # Comprueba que se ha desplegado en una IP
+    my ($deployment_ip) = ($README =~ /MV:\s*(\S+)\s+/);
+    check_ip($deployment_ip);
+    my $status = get("http://$deployment_ip/status");
+    my $status_ref = from_json( $status );
+    like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status de $deployment_url correcto");
+  }
   
-  if ( $this_hito > 2 ) { # Comprobar script para acopiar las máquinas 
+  if ( $this_hito > 3 ) { # Comprobar script para acopiar las máquinas 
     isnt( grep( /acopio.sh/, @repo_files), 0, "Está el script de aprovisionamiento" );
     $README =  read_text( "$repo_dir/README.md");
     my ($deployment_ip) = ($README =~ /(?:[Dd]espliegue|[Dd]eployment):.*?(\S+)\s+/);
