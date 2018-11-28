@@ -33,7 +33,7 @@ que se va a emitir en directo o quedar almacenado.
   [tercer tema](http://jj.github.io/CC/documentos/temas/Automatizando_cloud)
 
 * *Proyecto*: empezamos con el
-  [siguiente hito](http://jj.github.io/CC/documentos/proyecto/4.IaaS),
+  [siguiente hito](http://jj.github.io/CC/documentos/proyecto/4.nube-CLI),
   que es nuevo este curso.
 
 ## Siguiente semana
