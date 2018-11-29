@@ -23,6 +23,23 @@ que se va a emitir en directo o quedar almacenado.
 
 1. Instalarse los diferentes clientes de líneas de órdenes de los
    sistemas en la nube a los que se tenga acceso.
+2. En la sesión del jueves, comentar los fallos más habituales en el
+   hito.
+   1. Entender bien el guión del hito.
+      1. Leer cada uno de los items puntuables (o rúbricas) y
+         facilitar la corrección de los mismos.
+      2. Entender cuál es el espíritu del guión, no la letra, sobre
+         todo si se deciden hacer las cosas de forma diferente.
+   1. Entender cómo hacer la documentación
+      1. El README.md debe hacerse para que el lector entienda de qué
+         va el proyecto y pueda instalarlo y/o desplegarlo en
+         diferentes lugares.
+      2. Todo lo que se haga que sea invisible para quien corrige debe
+         estar documentado. Se deben documentar también las elecciones
+         que se hagan.
+      3. Documentar no es enlazar, sino explicar por qué se hace algo.
+      4. Es importante enlazar apartados específicos de la
+         documentación, no la documentación genérica.
 
 
 
