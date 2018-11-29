@@ -56,7 +56,17 @@
 
 [Ejercicios del tema 3](https://github.com/adritake/EjerciciosCC/blob/master/Tema3/EjerciciosTema3.md)
 
+## Séptima semana
 
+- [X] Poner a punto hipervisores de uso local y cuentas cloud que permitan usar máquinas virtuales para provisionar.
+- [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [X] Documentar y mantener una plataforma virtual.
+- [X] Realizar tareas de administración en infraestructura virtual.
+- [X] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [X] Saber cómo aplicarlos en un caso determinado.
+- [X] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
+- [X] Decidir sistema de provisionamiento.
+- [X] Crear receta de provisionamiento.
+- [X] Desplegar la aplicación usando el sistema de provisionamiento
 
-
-
+[Ejercicios del tema 4](https://github.com/adritake/EjerciciosCC/tree/master/Tema4)
