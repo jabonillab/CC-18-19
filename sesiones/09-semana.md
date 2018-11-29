@@ -25,6 +25,10 @@ que se va a emitir en directo o quedar almacenado.
    sistemas en la nube a los que se tenga acceso.
 2. En la sesión del jueves, comentar los fallos más habituales en el
    hito.
+   1. Entender bien la calificación. Los 0 no son un 500 no funciona,
+      sino un 404 not found. En general, dado que existe la
+      posibilidad de volver a enviar, son sólo una forma de pediros
+      que volváis a entregarlo.
    1. Entender bien el guión del hito.
       1. Leer cada uno de los items puntuables (o rúbricas) y
          facilitar la corrección de los mismos.
@@ -40,7 +44,15 @@ que se va a emitir en directo o quedar almacenado.
       3. Documentar no es enlazar, sino explicar por qué se hace algo.
       4. Es importante enlazar apartados específicos de la
          documentación, no la documentación genérica.
-
+   2. Sobre las rutas REST
+      1. Deben estar diseñadas alrededor de un recurso y evitar que
+         incluyan cosas como get o set (porque va implícito en el
+         comando HTTP que se use).
+      2. Usar también los status HTTP en vez de cosas como "No
+         existe" (también en la documentación).
+   3. Sobre la programación
+      1. Los errores son errores, no "una función devuelve 0". Usad
+         las excepciones del lenguaje y manejadlas. 
 
 
 ## Material para esta semana
