@@ -11,7 +11,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | ARCOS ANEAS, CARMEN | | |
 | BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 1.0 |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 2.0 |
-| CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 1.1 |
+| CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 2.0 **Reenviado**|
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 2.0.1 |
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 2.0 |
@@ -25,8 +25,13 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 2.2 |
 | MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 2.0 |
 | NEZREG ELAMBRI,   HOUARIA | | |
+<<<<<<< HEAD
 | PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 2 |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER |https://github.com/AntonioJavierRP/Cloud-Computing-Project | 2.1.2 *Reenviado* |
+=======
+| PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 2.1 **Reenviado** |
+| RODRÍGUEZ PÉREZ, ANTONIO JAVIER |https://github.com/AntonioJavierRP/Cloud-Computing-Project | 2.0.2 |
+>>>>>>> df28bab973b801c73d8e3c4fe8d5d02aea458551
 | SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 2.2 |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 1 |
 | TATBAK,  EMRE | | |
