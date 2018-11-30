@@ -75,3 +75,24 @@
 - [ ] Conocer diferentes lugares donde haya imágenes de sistemas operativos listos para usar. 
 - [x] Instalar y configurar diferentes sistemas de provisionamiento. (Actualmente sólo se ha instalado y configurado Heroku.)
 - [ ] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el _Domain Specific Language_ usado por los mismos.
+
+
+## Septima semana
+
+- [x] Entender las arquitecturas de software en la nube de uso en la actualidad.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [x] Entender en qué consiste la [infraestructura como software](https://jj.github.io/CC/documentos/temas/Provision).
+
+Objetivos logrados a partir de la lectura y realización de los [ejercicios del tema de "Provisionamiento en infraestructuras virtuales"](https://github.com/MarAl15/EjerciciosCC/blob/master/Tema3/tema3.md) con ayuda del [seminario sobre Ansible](https://www.youtube.com/watch?v=gFd9aj78_SM).
+
+### Otros objetivos
+- [x] Terminar el segundo hito.
+- [x] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, Python y Ruby.
+- [x] Poner a punto hipervisores de uso local y cuentas cloud que permitan usar máquinas virtuales para provisionar.
+
+
+## Octava semana
+
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware. (Conseguido tras la lectura de [esta explicación](http://www.datakeeper.es/?p=716)).
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+- [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
