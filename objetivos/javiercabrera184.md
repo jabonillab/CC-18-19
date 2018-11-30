@@ -4,9 +4,9 @@
 - [x] Darse de alta y comprender el funcionamiento básico de GitHub y el grupo de Telegram de la asignatura; conocer el resto de los recursos de la asignatura.
 - [x] Entender el concepto de software libre y su aplicación práctica en clase.
 - [x] Vernos las caras.
-- [x] Comenzar a usar git desde línea de órdenes y comprender su papel como sistema para trabajo colaborativo y despliegue de aplicaciones. 
+- [x] Comenzar a usar git desde línea de órdenes y comprender su papel como sistema para trabajo colaborativo y despliegue de aplicaciones.
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
-- [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo. 
+- [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
 ## Objetivos Segunda Semana
 
@@ -40,18 +40,44 @@
 ## Otros objetivos
 
 - [x] Revisar los resultados del primer hito y entender los fallos. Si no
-  se ha entregado todavía, lo dejamos para la clase del viernes. 
+  se ha entregado todavía, lo dejamos para la clase del viernes.
 
 - [x] Tener manejo básico de los lenguajes usados en herramientas de
   provisionamiento, Python y Ruby.
-  
+
 - [x] Poner a punto hipervisores de uso local y sitios online que permitan
   usar máquinas virtuales para provisionar.
-  
+
 - [x] Decidir tema para el seminario de recuperación de las clases de la
   semana anterior.
-  
+
 - [x] Entender por qué no se hace `git pull` sino `git pull --rebase` y
   como arreglarlo en ese caso
   usando
-  [`git squash`](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git). 
+  [`git squash`](https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git).
+
+
+## Objetivos Quinta, Sexta y Septima semana
+
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el concepto de infraestructura virtual y cómo describir
+   infraestructura mediante software, que se verá en [este seminario](https://www.meetup.com/es-ES/Granada-Geek/events/255973562/), como avance al tema siguiente.
+
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas
+   virtuales en la nube.
+
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado.
+
+
+- [x] Entender las arquitecturas de software en la nube de uso en la
+   actualidad.
+- [x] Comprender el paper fundamental de la infraestructura virtual en
+   este proceso.
+- [x] Entender en qué consiste la [infraestructura como software](https://jj.github.io/CC/documentos/temas/Provision).
+## Otros objetivos
+- [x] Repasar los reenvíos del hito 2 y los que no han reenviado todavía.
+- [x] Conocer las diferentes ofertas de PaaS en la nube.
+- [x] Instalar las herramientas de línea de órdenes de las herramientas cloud.
+- [x] Hacerse con alguna cuenta gratuita o bonificada de cloud.
+- [x] Aprender la mínimo de los lenguajes necesarios para trabajar en la
+  nube: Perl, Python y Ruby.
