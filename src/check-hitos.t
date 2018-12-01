@@ -101,6 +101,7 @@ EOC
 
     # Comprueba que se ha desplegado en una IP
     my ($deployment_ip) = ($README =~ /MV:\s*(\S+)\s+/);
+    unlike($deployment_ip, qr/http/, "$deployment_ip no es una URL sino una IP");
     check_ip($deployment_ip);
     my $status = get("http://$deployment_ip/status");
     my $status_ref = from_json( $status );
