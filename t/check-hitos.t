@@ -48708,7 +48708,7 @@ EOC
     my ($deployment_ip) = ($README =~ /MV:\s*(\S+)\s+/);
     unlike($deployment_ip, qr/http/, "$deployment_ip no es una URL sino una IP");
     check_ip($deployment_ip);
-    my $status = get("http://$deployment_ip/status");
+    my $status = get("http://$deployment_ip/");
     my $status_ref = from_json( $status );
     like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status de $deployment_ip correcto");
   }
