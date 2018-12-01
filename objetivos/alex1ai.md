@@ -32,10 +32,27 @@
 ## Semana #5
 1. [X] Comprender el tipo de aplicaciones que se despliegan en la nube.
 2. [X] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software, que se verá en [este seminario](https://www.meetup.com/es-ES/Granada-Geek/events/255973562/), como avance al tema siguiente.
-3. [ ] Repasar los reenvíos del hito 2 y los que no han reenviado todavía.
+3. [X] Repasar los reenvíos del hito 2 y los que no han reenviado todavía.
 4. [X] Conocer las diferentes ofertas de PaaS en la nube. [Ejercicio enlace](https://github.com/alex1ai/ejercicios-CC-18-19/blob/master/tema3.md)
 5. [X] Instalar las herramientas de línea de órdenes de las herramientas cloud.
 6. [X] Hacerse con alguna cuenta gratuita o bonificada de cloud. [Enlace](https://github.com/alex1ai/ejercicios-CC-18-19/tree/master/img/zeit.png)
 7. [X] Aprender la mínimo de los lenguajes necesarios para trabajar en la
   nube: Perl, Python y Ruby.
+
+## Semana 6 y 7
+
+1. [X] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
+    He propado [Chef](https://github.com/alex1ai/ejercicios-CC-18-19/blob/master/hito-3-provision.md) y Ansible (proyecto)
+2. [X] Entender los diferentes conceptos subyacentes: servicio, estado.
+3. [X] Entender las arquitecturas de software en la nube de uso en la actualidad.
+4. [X] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+5. [X] Entender en qué consiste la infraestructura como software.
+
+# Semana 8
+1. [ ] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+2. [ ] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+3. [ ] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+4. [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+5. [X] Aprender nociones básicas de Ruby.
+6. [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
 
