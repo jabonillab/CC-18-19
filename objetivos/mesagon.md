@@ -41,3 +41,43 @@
 - [x] Instalar las herramientas de línea de órdenes de las herramientas cloud. [Enlace ejercicios tema 2](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-2.md)
 - [x] Hacerse con alguna cuenta gratuita o bonificada de cloud. [Enlace ejercicios tema 2](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-2.md)
 - [x] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
+
+## Sexta semana
+
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado.
+- [x] Entender el concepto de servicio web.
+- [x] Entender qué es lo que se requiere en el hito 2 y las diferentes capas.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar. [Hashicorp](https://www.hashicorp.com/)
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
+- [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+
+[Enlace tema 3](http://jj.github.io/CC/documentos/temas/Provision)
+
+[Enlace ejercicios tema 3](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-3.md)
+
+## Séptima semana
+
+- [x] Entender las arquitecturas de software en la nube de uso en la actualidad.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender en qué consiste la infraestructura como software.
+- [x] Terminar el segundo hito.
+- [x] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, Python y Ruby.
+- [x] Poner a punto hipervisores de uso local y cuentas cloud que permitan usar máquinas virtuales para provisionar.
+
+[Enlace tema 3](http://jj.github.io/CC/documentos/temas/Provision)
+
+[Enlace ejercicios tema 3](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-3.md)
+
+
+## Octava semana
+
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware. [Enlace](https://www.ecured.cu/Hipervisor)
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube. [Vagrant](https://www.vagrantup.com/), [VirtualBox](https://www.virtualbox.org/) o [Azure](https://azure.microsoft.com/es-es/)
+- [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual. [Vagrant](https://www.vagrantup.com/)
+- [x] Aprender nociones básicas de Ruby.
+
+[Enlace tema 3](http://jj.github.io/CC/documentos/temas/Provision)
+
+[Enlace ejercicios tema 3](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-3.md)
