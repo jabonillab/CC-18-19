@@ -219,7 +219,7 @@ sub check_ip {
   if ( $ip ) {
     diag "\n\t".check( "Detectada dirección de despliegue $ip" )."\n";
   } else {
-    diag "\n\t".fail_x( "Problemas detectando URL de despliegue" )."\n";
+    diag "\n\t".fail_x( "Problemas detectando dirección de despliegue" )."\n";
   }
   my $pinger = Net::Ping->new();
   $pinger->port_number(22); # Puerto ssh
