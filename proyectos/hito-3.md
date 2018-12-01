@@ -2,7 +2,7 @@
 
 Incluye en la tabla inferior un enlace a tu repositorio. Por favor,
 usa versionado semántico para la versión que pongas en la columna
-correspondiente. 
+correspondiente.
 
 | Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
@@ -23,7 +23,7 @@ correspondiente.
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
 | GRIMM,  ALEXANDER MANUEL JOSEF | | |
 | MARTÍN VALERA, JONATHAN | | |
-| MESA GONZÁLEZ, JESÚS | | |
+| MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 3.0.0 |
 | MORALES GARZON,  ANDREA | | |
 | MORENTE GABALDÓN, ADRIÁN | | |
 | NEZREG ELAMBRI,   HOUARIA | | |
