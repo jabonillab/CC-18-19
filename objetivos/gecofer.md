@@ -45,8 +45,8 @@
 - [x] Conocer las diferentes ofertas de PaaS en la nube ([ver objetivo 2](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosQuintaSemana.md)).
 - [x] Instalar las herramientas de línea de órdenes de las herramientas cloud, en este caso de Heroku ([ver objetivo 1](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosQuintaSemana.md)).
 - [x] Aprender lo mínimo de Python para trabajar en la nube.
-- [ ] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
-- [ ] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
 
 ## Sexta Semana (7 de Noviembre de 2018)
 
@@ -76,7 +76,7 @@
 - [x] Ver [un ejemplo básico de ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml).
 - [x] Ver [otro ejemplo de ansible](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml)
 - [x] Ver el [video](https://www.youtube.com/watch?v=gFd9aj78_SM) tutorial de introducción a Ansible.
-- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
-- [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+- [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
 
 Para comprender revisar [aquí](https://github.com/Gecofer/proyecto-CC/tree/master/provision).
