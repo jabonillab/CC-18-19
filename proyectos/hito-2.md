@@ -9,7 +9,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | ALGUACIL CAMARERO,  MARÍA DEL MAR | https://github.com/MarAl15/ProyectoCC  | 2.0.1 |
 | ALQAM,  TAQIEDDIN F. A. | | |
 | ARCOS ANEAS, CARMEN | | |
-| BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 1.0 |
+| BAUTISTA CASTRO,  JAIRO DANIEL | https://github.com/danielbc09/Proyecto_CC | 2.0.1 **Reenviado** |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 2.1 **Reenviado** |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 2.0 **Reenviado**|
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 2.0.1 |
