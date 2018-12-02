@@ -27,7 +27,8 @@
 ### Otros objetivos de la segunda semana
 
 - [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
-	- [x] Saber manejar la historia de comandos anteriores.
+	
+- [x] Saber manejar la historia de comandos anteriores.
 	- [x] Configurar la línea de órdenes para presentar información de repos.
 	- [x] Conocer permisos y cuales usar en cada momento.
 - [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
@@ -64,3 +65,54 @@ Esta semana no tiene objetivos, dado que en la segunda semana solo hubo dos hora
 - [x] Instalar las herramientas de línea de órdenes de las herramientas cloud.
 - [x] Hacerse con alguna cuenta gratuita o bonificada de cloud. [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/PaaS/Ejercicio_1.png)
 - [ ] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
+
+## Sexta semana
+
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/tree/master/Provisionamiento/Ejercicio_2)
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado [Estados de Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/states-lifecycle)
+
+### Otros objetivos de la sexta semana
+
+- [x] Entender el concepto de servicio web [Definición](https://www.ibm.com/support/knowledgecenter/en/SSGMCP_5.3.0/com.ibm.cics.ts.webservices.doc/concepts/dfhws_definition.html)
+- [x] Entender qué es lo que se requiere en el hito 2 y las diferentes capas
+	- [x] Clase/Módulo + Test
+	- [x] Servicio web + Test
+	- [x] Travis (para ejecutar los tests)
+	- [x] Descripción de la infraestructura virtual
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar [Máquinas virtuales Linux](https://www.osboxes.org/virtualbox-images/)
+- [x] Instalar y configurar diferentes sistemas de provisionamiento [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/tree/master/Provisionamiento/Ejercicio_2)
+- [ ] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos
+- [x] Decidir sobre el próximo seminario (19 de noviembre) [Enlace](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FGranada-Geek%2Fevents%2F256243121&sa=D&usd=2&usg=AFQjCNGTixNtNrE_s0s79A1NjEPo_ZoBjw)
+
+## Séptima semana
+
+- [x] Entender las arquitecturas de software en la nube de uso en la actualidad
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso
+- [x] Entender en qué consiste la infraestructura como software [Enlace](https://searchitoperations.techtarget.com/definition/Infrastructure-as-Code-IAC)
+
+### Otros objetivos de la séptima semana
+
+- [x] Terminar el segundo hito
+	- [x] Entender versiones y su especificación en Travis
+	- [x] Entender los remotes de git
+	- [x] Entender el concepto de versión, tal como viene en el documento de reenvíos
+	- [x] Entender los issues
+- [ ] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, Python y Ruby
+- [x] Poner a punto hipervisores de uso local y cuentas cloud que permitan usar máquinas virtuales para provisionar [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/Provisionamiento/Ejercicio_3.png)
+- [x] Ya se ha recuperado mediante seminarios las 4 horas de clase de principios de octubre. Si hace falta algún otro seminario, simplemente solicitadlo por el grupo o se comenta ahora en clase
+
+## Octava semana
+
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware [Enlace](https://www.networkworld.com/article/3243262/virtualization/what-is-a-hypervisor.html)
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube
+- [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros [Enlace](https://searchdatacenter.techtarget.com/definition/infrastructure)
+
+### Otros objetivos de la octava semana
+
+- [x] Continuar trabajando en el hito 3 del proyecto del proyecto, resolver las dudas que surjan y comentar lo que se ha hallado en el mismo
+	- [x] Ver [un ejemplo básico de ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml) y [otro ejemplo](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml)
+	- [x] Este [video](https://www.youtube.com/watch?v=gFd9aj78_SM) es un tutorial de introducción a Ansible
+- [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual
+- [ ] Aprender nociones básicas de Ruby
+- [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez
+- [x] Proponer un seminario de Chef Workstation para diciembre
