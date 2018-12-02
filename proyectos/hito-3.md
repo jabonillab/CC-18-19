@@ -2,7 +2,7 @@
 
 Incluye en la tabla inferior un enlace a tu repositorio. Por favor,
 usa versionado semántico para la versión que pongas en la columna
-correspondiente. 
+correspondiente.
 
 | Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
@@ -16,7 +16,7 @@ correspondiente.
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 3.1 |
 | CAMPOY NIEVES, ALEJANDRO | | |
 | CASANOVA GALLARDO, ENRIQUE | | |
-| CORREA FERNANDEZ,  GEMA | | |
+| CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 3.0 |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
 | GALLEGO QUERO,  LUIS | | |
