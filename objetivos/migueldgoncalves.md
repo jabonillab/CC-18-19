@@ -27,8 +27,7 @@
 ### Otros objetivos de la segunda semana
 
 - [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
-	
-- [x] Saber manejar la historia de comandos anteriores.
+	- [x] Saber manejar la historia de comandos anteriores.
 	- [x] Configurar la línea de órdenes para presentar información de repos.
 	- [x] Conocer permisos y cuales usar en cada momento.
 - [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
