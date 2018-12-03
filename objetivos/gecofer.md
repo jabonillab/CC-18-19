@@ -45,8 +45,8 @@
 - [x] Conocer las diferentes ofertas de PaaS en la nube ([ver objetivo 2](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosQuintaSemana.md)).
 - [x] Instalar las herramientas de línea de órdenes de las herramientas cloud, en este caso de Heroku ([ver objetivo 1](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosQuintaSemana.md)).
 - [x] Aprender lo mínimo de Python para trabajar en la nube.
-- [ ] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
-- [ ] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
 
 ## Sexta Semana (7 de Noviembre de 2018)
 
@@ -59,3 +59,24 @@
 - [ ] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 - [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
 - [x] Haber asistido a la clase [Ansible](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/charlas/ansible.md).
+
+##### Séptima Semana (14 de Noviembre de 2018)
+
+- [x] Entender las arquitecturas de software en la nube de uso en la actualidad.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender en qué consiste la [infraestructura como software](https://jj.github.io/CC/documentos/temas/Provision).
+- [x] Avance en el hito 2 incluyendo servicios adicionales ([avances](https://github.com/Gecofer/proyecto-CC/blob/master/docs/avance_proyecto.md)).
+- [x] Asistir al [seminario sobre Log](https://github.com/Gecofer/ejercicios-CC/tree/master/hito3/Charla%20logs).
+
+##### Octava Semana (21 de Noviembre de 2018)
+
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+- [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+- [x] Ver [un ejemplo básico de ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml).
+- [x] Ver [otro ejemplo de ansible](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml)
+- [x] Ver el [video](https://www.youtube.com/watch?v=gFd9aj78_SM) tutorial de introducción a Ansible.
+- [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+
+Para comprender revisar [aquí](https://github.com/Gecofer/proyecto-CC/tree/master/provision).
