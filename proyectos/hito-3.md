@@ -2,7 +2,7 @@
 
 Incluye en la tabla inferior un enlace a tu repositorio. Por favor,
 usa versionado semántico para la versión que pongas en la columna
-correspondiente. 
+correspondiente.
 
 | Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
@@ -20,7 +20,7 @@ correspondiente.
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | https://github.com/migueldgoncalves/CCproj_1819 | 3.0.2 |
 | GALLEGO QUERO,  LUIS | | |
-| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 3.2 |
+| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 3.3 |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 3.1 **Reentregada** |
 | MARTÍN VALERA, JONATHAN | | |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 3.0.2 |
