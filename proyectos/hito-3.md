@@ -20,7 +20,7 @@ correspondiente.
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | https://github.com/migueldgoncalves/CCproj_1819 | 3.0.2 |
 | GALLEGO QUERO,  LUIS | | |
-| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
+| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 3.3.3 |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 3.1 **Reentregada** |
 | MARTÍN VALERA, JONATHAN | | |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 3.0.2 |
