@@ -101,8 +101,9 @@ EOC
 
     # Comprueba que se ha desplegado en una IP
     my ($deployment_ip) = ($README =~ /MV:\s*(\S+)\s+/);
+    unlike($deployment_ip, qr/http/, "$deployment_ip no es una URL sino una IP");
     check_ip($deployment_ip);
-    my $status = get("http://$deployment_ip/status");
+    my $status = get("http://$deployment_ip/");
     my $status_ref = from_json( $status );
     like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status de $deployment_ip correcto");
   }
@@ -219,7 +220,7 @@ sub check_ip {
   if ( $ip ) {
     diag "\n\t".check( "Detectada dirección de despliegue $ip" )."\n";
   } else {
-    diag "\n\t".fail_x( "Problemas detectando URL de despliegue" )."\n";
+    diag "\n\t".fail_x( "Problemas detectando dirección de despliegue" )."\n";
   }
   my $pinger = Net::Ping->new();
   $pinger->port_number(22); # Puerto ssh

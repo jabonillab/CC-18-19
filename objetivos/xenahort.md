@@ -1,4 +1,4 @@
-#Semana 1: 3/10/2018
+#Hito 0:
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de GitHub.
@@ -10,7 +10,7 @@
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
-#Semana 2: 10/10/2018
+#Hito 1
 
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [x] Entender las características de las aplicaciones que se despliegan en la nube.
@@ -24,7 +24,7 @@
 - [x] Lectura y comprensión del concepto de microservicios del repositorio de clase
 - [x] Asistir a la charla recomendada por la asignatura "0 a Cloud"
 
-#Semana 4: 24/10/2018
+#Hito 2
 
 - [x] Entender las arquitecturas de software en la nube de uso en la actualidad.
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
@@ -34,3 +34,14 @@
 - [x] Darse de alta en servicios PaaS como zeit.co y [Heroku](https://raw.githubusercontent.com/xenahort/proyectoCloudComputing/master/img/Pantallazo%20de%20Heroku.png).
 - [x] Establecido el tema de la charla de recuperación: provisión con Ansible.
 - [x] Entender por qué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando un squash commits con git rebase -i.
+
+#Hito 3
+
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software.
+- [x] Asistir al seminario de provisionamiento con [Ansible] (https://www.meetup.com/es-ES/Granada-Geek/events/255973562/)
+- [x] Repasar los reenvíos del hito 2 y los que no han reenviado todavía.
+- [x] Conocer las diferentes ofertas de PaaS en la nube.
+- [x] Instalar las herramientas de línea de órdenes de las herramientas cloud.
+- [ ] Hacerse con alguna cuenta gratuita o bonificada de cloud.
+- [x] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube (Perl, Python y Ruby).
