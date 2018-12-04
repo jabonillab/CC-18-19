@@ -24,7 +24,7 @@ correspondiente.
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 3.0.1 |
 | MARTÍN VALERA, JONATHAN | | |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 3.0.2 |
-| MORALES GARZON,  ANDREA | | |
+| MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 3.0 |
 | MORENTE GABALDÓN, ADRIÁN | | |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 3 |
