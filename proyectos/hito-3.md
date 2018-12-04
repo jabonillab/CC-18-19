@@ -2,7 +2,7 @@
 
 Incluye en la tabla inferior un enlace a tu repositorio. Por favor,
 usa versionado semántico para la versión que pongas en la columna
-correspondiente.
+correspondiente. 
 
 | Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
