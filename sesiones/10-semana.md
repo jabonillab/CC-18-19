@@ -16,7 +16,10 @@
 2. Entender los errores más comunes en la entrega del hito 3.
    1. Problemas habituales de formato del README.md.
    2. Entender cómo estructurar la documentación.
-   
+   3. Justificar la máquina virtual usada. Mirad por
+      ejemplo
+      [estas respuestas](https://www.quora.com/What-is-best-production-server-for-Flask-apps-Ubuntu-or-CentOS). También
+      [aquí hacen un repaso](https://www.fullstackpython.com/operating-systems.html)
 
 
 ## Material para esta semana
