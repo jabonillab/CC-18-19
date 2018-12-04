@@ -18,7 +18,7 @@ correspondiente.
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 3.1 |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
-| DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
+| DE OLIVEIRA DIAS GONÇALVES, MIGUEL | https://github.com/migueldgoncalves/CCproj_1819 | 3.0.2 |
 | GALLEGO QUERO,  LUIS | | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 3.0.1 |
