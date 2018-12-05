@@ -90,3 +90,47 @@
 - [] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
 
 -[x]Decidir sobre el próximo seminario (19 de noviembre).
+
+## Septima semana
+
+- [X] Entender las arquitecturas de software en la nube de uso en la actualidad.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso
+- [X] Entender en qué consiste la infraestructura como software.[link](https://www.chef.io/infrastructure-as-code/)
+
+### Otros objetivos
+
+-[x] Terminar el segundo hito.
+
+    * Entender versiones y su especificación en Travis.
+    * Entender los remotes de git.
+    * Entender el concepto de versión, tal como viene en el documento de reenvíos.
+    * Entender los issues.
+    * Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, Python y Ruby.
+
+- [x] Poner a punto hipervisores de uso local y cuentas cloud que permitan usar máquinas virtuales para provisionar.
+
+- [x] Ya se ha recuperado mediante seminarios las 4 horas de clase de principios de octubre. Si hace falta algún otro seminario, simplemente solicitadlo por el grupo o se comenta ahora en clase.
+
+## Octava semana
+
+-[x]  Entender los mecanismos básicos de los hipervisores y su soportehardware. 
+
+-[x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+
+-[x]  Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+
+#### Objetivos adicionales
+
+* [x] Continuar trabajando en el [hito 3 del proyecto](https://jj.github.io/CC/documentos/proyecto/3.Pro) del proyecto, resolver las dudas que surjan y comentar lo que se ha hallado en el mismo.
+* [x] Ver
+  [un ejemplo básico de ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml) y
+  [otro ejemplo](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml).
+* [x]Este [video](https://www.youtube.com/watch?v=gFd9aj78_SM) es un tutorial de introducción a Ansible.
+  
+* [x] Instalar los nuevos sistemas de orquestación correspondientes al
+  tema actual.
+
+* [x] Aprender nociones básicas de Ruby.
+
+* [x] Proponer un seminario de Chef Workstation para diciembre.
+
