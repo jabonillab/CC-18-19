@@ -63,7 +63,7 @@ que se va a emitir en directo o quedar almacenado.
 
 * *Proyecto*: empezamos con el
   [siguiente hito](https://jj.github.io/CC/documentos/proyecto/4.nube-CLI),
-  que es nuevo este curso.
+  que es nuevo este curso. Se entrega *el día 18 de diciembre*.
 
 ## Siguiente semana
 
