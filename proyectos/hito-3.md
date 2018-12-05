@@ -2,7 +2,7 @@
 
 Incluye en la tabla inferior un enlace a tu repositorio. Por favor,
 usa versionado semántico para la versión que pongas en la columna
-correspondiente. 
+correspondiente.
 
 | Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
@@ -22,7 +22,7 @@ correspondiente.
 | GALLEGO QUERO,  LUIS | | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 3.0.1 |
-| MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 3.0.1 |
+| MARTÍN VALERA, JONATHAN | | |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 3.0.2 |
 | MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 3.0 |
 | MORENTE GABALDÓN, ADRIÁN | | |
