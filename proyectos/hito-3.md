@@ -14,7 +14,7 @@ correspondiente.
 | BAUTISTA CASTRO,  JAIRO DANIEL | | |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | | |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 3.1 |
-| CAMPOY NIEVES, ALEJANDRO | | |
+| CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 3.2 |
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 3.1 |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
