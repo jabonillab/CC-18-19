@@ -25,7 +25,7 @@ correspondiente.
 | MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 3.0.3 |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 3.0.2 |
 | MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 3.0 |
-| MORENTE GABALDÓN, ADRIÁN | | |
+| MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 3.0 |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 3 |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
