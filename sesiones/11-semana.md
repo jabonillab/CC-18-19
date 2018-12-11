@@ -1,4 +1,4 @@
-# Décima semana, comienza el 12 de diciembre
+# Undécima semana, comienza el 12 de diciembre
 
 ## Objetivos de la asignatura
 
@@ -15,11 +15,13 @@
 
 ## Material para esta semana
 
-* *Teoría*: Comenzamos a hablar de [virtualización ligera usando contenedores](http://jj.github.io/CC/documentos/temas/Contenedores)
+* *Teoría*: Comenzamos a hablar de [orquestación](http://jj.github.io/CC/documentos/temas/Orquestacion)
 
-* *Proyecto*: Continuamos con el [hito 4 del proyecto](http://jj.github.io/CC/documentos/proyecto/4.Orquestacion). se
-  entregará el próximo lunes *12 de diciembre*.
+* *Proyecto*: Entendemos  el [hito siguiente del proyecto](http://jj.github.io/CC/documentos/proyecto/5.Orquestacion). Se
+  entregará día 8 de enero. Se recuerda que todavía está pendiente la
+  entrega del [hito 4](https://jj.github.io/CC/documentos/proyecto/4.nube-CLI). Se
+  entrega *el día 18 de diciembre*.
 
 ## Siguiente semana
 
-[Undécima semana](11-semana)
+[Undécima semana](12-semana)
