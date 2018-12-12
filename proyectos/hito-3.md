@@ -28,7 +28,7 @@ correspondiente.
 | MORENTE GABALDÓN, ADRIÁN | https://github.com/adrianmorente/devtionary | 3.0 |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 3 |
-| RODRÍGUEZ PÉREZ, ANTONIO JAVIER | https://github.com/AntonioJavierRP/Cloud-Computing-Project | 3.0.0 |
+| RODRÍGUEZ PÉREZ, ANTONIO JAVIER | https://github.com/AntonioJavierRP/Cloud-Computing-Project | 3.0.1 |
 | SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 3.0 |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 2 |
 | TATBAK,  EMRE | | |
