@@ -53,12 +53,44 @@
 2. Entender los diferentes conceptos subyacentes: servicio, estado.
 3. Entender el concepto de servicio web.
 4. Entender qué es lo que se requiere en el hito 2 y las diferentes capas
-  - Clase/Módulo + Test
-  - Servicio web + Test
-  - Travis (para ejecutar los tests)
-  - Descripción de la infraestructura virtual.
+    1. Clase/Módulo + Test
+    2. Servicio web + Test
+    3. Travis (para ejecutar los tests)
+    4. Descripción de la infraestructura virtual.
 5. Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
 6. Instalar y configurar diferentes sistemas de provisionamiento.
 7. Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain
 Specific Language usado por los mismos.
 8. Decidir sobre el próximo seminario (19 de noviembre).
+
+## [Séptima semana](https://github.com/fpeiro/CC-ejercicios/blob/master/objetivos/07-semana.md)
+1. Entender las arquitecturas de software en la nube de uso en la actualidad.
+2. Comprender el papel fundamental de la infraestructura virtual en este proceso.
+3. Entender en qué consiste la [infraestructura como software](https://jj.github.io/CC/documentos/temas/Provision).
+4. Terminar el segundo hito.
+    1. Entender versiones y su especificación en Travis.
+    2. Entender los remotes de git.
+    3. Entender el concepto de versión, tal como viene en [el documento de reenvíos](http://jj.github.io/CC/documentos/proyecto/Reenvios).
+    4. Entender los issues.
+5. Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, Python y Ruby.
+6. Poner a punto hipervisores de uso local y cuentas cloud que permitan usar máquinas virtuales para provisionar.
+
+## [Octava semana](https://github.com/fpeiro/CC-ejercicios/blob/master/objetivos/08-semana.md)
+1. Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+2. Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+3. Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+4. Continuar trabajando en el [hito 3 del proyecto](https://jj.github.io/CC/documentos/proyecto/3.Provisionamiento), resolver las dudas que surjan y comentar lo que se ha hallado en el mismo.
+    1. Ver [un ejemplo básico de ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml) y [otro ejemplo](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml).
+    2. Este [vídeo](https://www.youtube.com/watch?v=gFd9aj78_SM) es un tutorial de introducción a Ansible.
+5. Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+6. Aprender nociones básicas de Ruby.
+7. Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+8. Proponer un seminario de Chef Workstation para diciembre.
+
+## [Novena semana](https://github.com/fpeiro/CC-ejercicios/blob/master/objetivos/09-semana.md)
+1. Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
+2. Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+3. Instalar y configurar diferentes sistemas de provisionamiento.
+4. Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
+5. Entender las nociones básicas de seguridad.
+6. En la sesión del jueves, comentar los fallos más habituales en el hito.
