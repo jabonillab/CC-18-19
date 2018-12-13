@@ -48679,15 +48679,16 @@ EOC
 
   if ( $this_hito > 1 ) { # Despliegue en algún lado
     $README =  read_text( "$repo_dir/README.md");
-    my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment)[^\n]+(https://\S+)\b});
-    if ( $deployment_url ) {
-      diag "☑ Hallado URL de despliegue $deployment_url";
-    } else {
-      diag "✗ Problemas extrayendo URL de despliegue";
-    }
-    ok( $deployment_url, "URL de despliegue hito 2");
   SKIP: {
       skip "Ya en el hito siguiente", 2 unless $this_hito == 2;
+
+      my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment)[^\n]+(https://\S+)\b});
+      if ( $deployment_url ) {
+	diag "☑ Hallado URL de despliegue $deployment_url";
+      } else {
+	diag "✗ Problemas extrayendo URL de despliegue";
+      }
+      ok( $deployment_url, "URL de despliegue hito 2");
       my $status = get($deployment_url);
       if ( ! $status || $status =~ /html/ ) {
 	$status = get( "$deployment_url/status"); # Por si acaso han movido la ruta
@@ -48707,19 +48708,26 @@ EOC
     # Comprueba que se ha desplegado en una IP
     my ($deployment_ip) = ($README =~ /MV:\s*\b(\S+)\b\s+/);
     unlike($deployment_ip, qr/http/, "$deployment_ip no es una URL sino una IP");
-    check_ip($deployment_ip);
-    my $status = get("http://$deployment_ip/");
-    my $status_ref = from_json( $status );
-    like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status de $deployment_ip correcto");
+  SKIP: {
+      skip "Ya en el hito siguiente", 2 unless $this_hito == 3;
+      
+      check_ip($deployment_ip);
+      my $status = get("http://$deployment_ip/");
+      my $status_ref = from_json( $status );
+      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status de $deployment_ip correcto");
+    }
   }
   
   if ( $this_hito > 3 ) { # Comprobar script para acopiar las máquinas 
     isnt( grep( /acopio.sh/, @repo_files), 0, "Está el script de aprovisionamiento" );
-    $README =  read_text( "$repo_dir/README.md");
-    my ($deployment_ip) = ($README =~ /(?:[Dd]espliegue|[Dd]eployment):.*?(\S+)\s+/);
+    my ($deployment_ip) = ($README =~ /MV2:\s*\b(\S+)\b\s+/);
+    unlike($deployment_ip, qr/http/, "$deployment_ip no es una URL sino una IP");
     SKIP: {
-      skip "Ya en el hito siguiente", 1 unless $this_hito < 4;
+      skip "Ya en el hito siguiente", 1 unless $this_hito == 4;
       check_ip($deployment_ip);
+      my $status = get("http://$deployment_ip/");
+      my $status_ref = from_json( $status );
+      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status $status de $deployment_ip correcto");
     };
   }
 
@@ -48737,7 +48745,7 @@ EOC
     }
   }
 
-  if ( $this_hito > 4 ) { # Despliegue en algún lado
+  if ( $this_hito > 5 ) { # Despliegue en algún lado
     my ($deployment_url) = ($README =~ /(?:[Cc]ontenedor|[Cc]ontainer).+(https?:..\S+)\b/);
     if ( $deployment_url ) {
       diag "☑ Detectado URL de despliegue $deployment_url";
