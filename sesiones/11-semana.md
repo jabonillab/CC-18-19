@@ -3,7 +3,6 @@
 ## Objetivos de la asignatura
 
 1. Entender los recursos para automatización de actividades en la nube
-
 2. Entender el concepto de infraestructura definida por software. 
 
 ## Objetivos adicionales
