@@ -81,3 +81,31 @@
 - [x] Hacerse con alguna cuenta gratuita o bonificada de cloud.
 - [x] Aprender la mínimo de los lenguajes necesarios para trabajar en la
   nube: Perl, Python y Ruby.
+
+## Objetivos Octava, Novena y Decima semana
+
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte
+   hardware.
+
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los
+   hipervisores localmente o en la nube.
+
+- [x] Entender los diferentes niveles de definición de infraestructura y
+cómo trabajan unos con otros.
+
+
+- [x] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas
+  virtuales.
+
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas
+  operativos listas para usar.
+
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
+
+- [x] Entender los conceptos de los sistemas de máquinas virtuales y cómo
+  configurarlos desde línea de órdenes.
+- [x] Entender las nociones básicas de seguridad.
+
+- [x]  Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+
+- [x]  Asimilar los conceptos relacionados con tales sistemas.
