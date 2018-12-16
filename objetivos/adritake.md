@@ -70,3 +70,19 @@
 - [X] Desplegar la aplicación usando el sistema de provisionamiento
 
 [Ejercicios del tema 4](https://github.com/adritake/EjerciciosCC/tree/master/Tema4)
+
+## Novena semana
+
+- [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [X] Documentar y mantener una plataforma virtual.
+- [X] Realizar tareas de administración de infraestructuras virtuales.
+- [X] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
+- [X] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+- [X] Instalar y configurar diferentes sistemas de provisionamiento.
+- [X] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
+- [X] Entender las nociones básicas de seguridad.
+- [X] Crear un script para automatizar la creación de máquinas virtuales y su aprovisionamiento
+
+[Ejercicios del tema 5](https://github.com/adritake/EjerciciosCC/tree/master/Tema5)
+ 
