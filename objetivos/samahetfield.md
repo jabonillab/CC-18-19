@@ -47,3 +47,18 @@ Algunos de los objetivos cumplidos se ven reflejados en los [Ejercicios](https:/
 6. Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
 
 Los ejercicios del tema 3 correspondientes a estas dos semanas se encuentran resueltos en mi [repositorio](https://github.com/samahetfield/ejerciciosCC-1819).
+
+# Semana 9-10
+
+1. Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
+2. Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+3. Instalar y configurar diferentes sistemas de provisionamiento.
+4. Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
+5. Entender las nociones básicas de seguridad.
+6. Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+7. Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+8. Asimilar los conceptos relacionados con tales sistemas.
+9. Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+10. Instalar algunas otras utilidades que puedan ser de ayuda, como jq
+
+Los ejercicios correspondientes a este tema se encuentran en el siguiente [enlace](https://github.com/samahetfield/ejerciciosCC-1819/tree/master/ejerciciosTema4)
