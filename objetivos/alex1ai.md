@@ -49,10 +49,24 @@
 5. [X] Entender en qué consiste la infraestructura como software.
 
 # Semana 8
-1. [ ] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+1. [X] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
 2. [ ] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
-3. [ ] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+3. [X] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
 4. [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
 5. [X] Aprender nociones básicas de Ruby.
-6. [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+6. [X] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+
+Enlace para hito 4: [Here](https://github.com/alex1ai/ejercicios-CC-18-19/blob/master/hito-4-automatic-cli.md)
+# Semana 9
+Objetivos de la asignatura
+1. [ ] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
+2. [X] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+3. [ ] Instalar y configurar diferentes sistemas de provisionamiento.
+4. [X]  Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
+5. [ ] Entender las nociones básicas de seguridad.
+
+# Semana 10
+1. [ ] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+3. [ ] Asimilar los conceptos relacionados con tales sistemas.
+
 
