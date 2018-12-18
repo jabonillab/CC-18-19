@@ -81,3 +81,22 @@
 [Enlace tema 3](http://jj.github.io/CC/documentos/temas/Provision)
 
 [Enlace ejercicios tema 3](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-3.md)
+
+## Novena semana
+
+- [x] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales. [Google cloud platform](https://google.secure.force.com/GCPEDU/?cid=%2FUGjRMSmjCxb46Zh23oYREj9xRuTV%2BwugUKBADIAutbGY70BB9ccQeBIQHpSFGHL/) y [Azure](https://azure.microsoft.com/es-es/).
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar. [bitnami](https://bitnami.com/), [hashicorp](https://www.hashicorp.com/) y [Azure](https://azure.microsoft.com/es-es/)
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
+-[x] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes. [Tema 4](http://jj.github.io/CC/documentos/temas/Automatizando_cloud).
+- [x] Entender las nociones básicas de seguridad.
+
+[Enlace ejercicios tema 4](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-4.md)
+
+## Décima semana
+
+- [x]  Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube. [Tema 4](http://jj.github.io/CC/documentos/temas/Automatizando_cloud)
+- [x] Asimilar los conceptos relacionados con tales sistemas. [Tema 4](http://jj.github.io/CC/documentos/temas/Automatizando_cloud)
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+- [x] Instalar algunas otras utilidades que puedan ser de ayuda, como jq y herramientas de medición de prestaciones como httperf o ab.
+
+[Enlace ejercicios tema 4](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-4.md)
