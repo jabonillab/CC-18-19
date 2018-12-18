@@ -25,7 +25,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | MORALES GARZON,  ANDREA | | |
 | MORENTE GABALDÓN, ADRIÁN | | |
 | NEZREG ELAMBRI,   HOUARIA | | |
-| PEIRÓ GARRIDO,  FELIPE | | |
+| PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 4 |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
 | SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 4.1 |
 | SERRANO PEREZ,  JUAN CARLOS | | |
