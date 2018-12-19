@@ -20,7 +20,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | GALLEGO QUERO,  LUIS | | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 4.1.1 |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 4.0.1 |
-| MARTÍN VALERA, JONATHAN | | |
+| MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 4.0 |
 | MESA GONZÁLEZ, JESÚS | https://github.com/mesagon/Proyecto-CC-MII | 4.0.0 |
 | MORALES GARZON,  ANDREA |  https://github.com/andreamorgar/ProyectoCC| 4.0 |
 | MORENTE GABALDÓN, ADRIÁN | | |
