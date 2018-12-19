@@ -45,3 +45,15 @@
 - [x] Instalar las herramientas de línea de órdenes de las herramientas cloud.
 - [ ] Hacerse con alguna cuenta gratuita o bonificada de cloud.
 - [x] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube (Perl, Python y Ruby).
+
+#Hito 4
+
+- [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+- [x] Asimilar los conceptos relacionados con tales sistemas.
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+- [ ] Instalar algunas otras utilidades que puedan ser de ayuda, como `jq` y herramientas de medición de prestaciones como `httperf` o `ab`.
+- [x] Entender los errores más comunes en la entrega del hito 3.
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
