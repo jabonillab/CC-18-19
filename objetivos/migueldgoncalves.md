@@ -113,5 +113,57 @@ Esta semana no tiene objetivos, dado que en la segunda semana solo hubo dos hora
 	- [x] Este [video](https://www.youtube.com/watch?v=gFd9aj78_SM) es un tutorial de introducción a Ansible
 - [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual
 - [ ] Aprender nociones básicas de Ruby
-- [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez
+- [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez
 - [x] Proponer un seminario de Chef Workstation para diciembre
+
+## Novena semana
+
+- [x] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales. [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/Automatizacion/Ejercicio_1.md)
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar. [Máquinas virtuales Linux](https://www.osboxes.org/virtualbox-images/)
+- [x] Instalar y configurar diferentes sistemas de provisionamiento. [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/Automatizacion/Ejercicio_2.md)
+- [x] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes. [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/Automatizacion/Ejercicio_2.md)
+- [x] Entender las nociones básicas de seguridad. [Enlace1](https://www.csoonline.com/article/2125258/cloud-security/cloud-security--the-basics.html) [Enlace2](https://www.csoonline.com/article/2125262/cloud-security/cloud-security-in-the-real-world--4-examples.html)
+
+### Otros objetivos de la novena semana
+
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso. [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/Automatizacion/Ejercicio_1.md)
+- [x] En la sesión del jueves, comentar los fallos más habituales en el hito.
+	- [x] Entender bien la calificación. Los 0 no son un 500 no funciona, sino un 404 not found. En general, dado que existe la posibilidad de volver a enviar, son sólo una forma de pediros que volváis a entregarlo.
+	- [x] Entender bien el guión del hito.
+		- [x] Leer cada uno de los items puntuables (o rúbricas) y facilitar la corrección de los mismos.
+		- [x] Entender cuál es el espíritu del guión, no la letra, sobre todo si se deciden hacer las cosas de forma diferente.
+	- [x] Entender cómo hacer la documentación
+		- [x] El README.md debe hacerse para que el lector entienda de qué va el proyecto y pueda instalarlo y/o desplegarlo en diferentes lugares.
+		- [x] Todo lo que se haga que sea invisible para quien corrige debe estar documentado. Se deben documentar también las elecciones que se hagan.
+		- [x] Documentar no es enlazar, sino explicar por qué se hace algo.
+		- [x] Es importante enlazar apartados específicos de la documentación, no la documentación genérica.
+	- [x] Sobre las rutas REST
+		- [x] Deben estar diseñadas alrededor de un recurso y evitar que incluyan cosas como get o set (porque va implícito en el comando HTTP que se use).
+		- [x] Usar también los status HTTP en vez de cosas como "No existe" (también en la documentación).
+	- [x] Sobre la programación
+		- [x] Los errores son errores, no "una función devuelve 0". Usad las excepciones del lenguaje y manejadlas.
+
+## Décima semana
+
+- [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube. [Enlace](http://cloudpatterns.org/mechanisms/resource_management_system)
+- [x] Asimilar los conceptos relacionados con tales sistemas. [Enlace](https://www.networkworld.com/article/3305722/cloud-computing/data-driven-resource-management-and-the-future-of-cloud.html)
+
+### Otros objetivos de la décima semana
+
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso. [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/Automatizacion/Ejercicio_2.md)
+- [ ] Instalar algunas otras utilidades que puedan ser de ayuda, como jq y herramientas de medición de prestaciones como httperf o ab.
+- [ ] Entender los errores más comunes en la entrega del hito 3.
+	- [x] Problemas habituales de formato del README.md.
+	- [x] Entender cómo estructurar la documentación.
+	- [x] Justificar la máquina virtual usada. Mirad por ejemplo [estas respuestas](https://www.quora.com/What-is-best-production-server-for-Flask-apps-Ubuntu-or-CentOS). También [aquí hacen un repaso](https://www.fullstackpython.com/operating-systems.html).
+		- [ ] Convendría familiarizarse con herramientas de medición de prestaciones, como se comentó.
+
+## Undécima semana
+
+- [x] Entender los recursos para automatización de actividades en la nube [Enlace](https://blog.newrelic.com/engineering/best-cloud-infrastructure-automation-tools/)
+- [x] Entender el concepto de infraestructura definida por software. [Enlace](https://azure.microsoft.com/en-us/overview/what-is-iaas/)
+
+### Otros objetivos de la undécima semana
+
+- [ ] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
