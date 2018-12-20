@@ -25,7 +25,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | MORALES GARZON,  ANDREA |  https://github.com/andreamorgar/ProyectoCC| 4.0 |
 | MORENTE GABALDÓN, ADRIÁN | | |
 | NEZREG ELAMBRI,   HOUARIA | | |
-| PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 4 |
+| PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 4.1 **Reenviado** |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
 | SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 4.1 |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 1 |
