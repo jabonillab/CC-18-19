@@ -134,4 +134,40 @@ Repositorio para le entrega de ejercicos => [Repositorio](https://github.com/lui
 * [X] 1. Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
 * [X] 2. En la sesión del jueves, comentar los fallos más habituales en el hito.
 
+## Décima sesión (5 Diciembre)
+
+### Objetivos principales
+
+* [X] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+* [X] Asimilar los conceptos relacionados con tales sistemas.
+
+## Objetivos adicionales
+
+* [X] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+* [X] Instalar algunas otras utilidades que puedan ser de ayuda, como jq y herramientas de medición de prestaciones como httperf o ab.
+
+## Undécima sesión (12 Diciembre)
+
+### Objetivos principales
+
+* [X] Entender los recursos para automatización de actividades en la nube.
+* [X] Entender el concepto de infraestructura definida por software.
+
+## Objetivos adicionales
+
+* [] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+* [X] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## Duodécima sesión (19 Diciembre)
+
+### Objetivos principales
+
+* [X] Entender los recursos para automatización de actividades en la nube.
+* [X] Entender el concepto de infraestructura definida por software.
+
+## Objetivos adicionales
+
+* [X] Entender los problemas con el hito 4.
+* [] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+* [X] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
 
