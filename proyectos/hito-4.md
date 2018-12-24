@@ -15,7 +15,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 4.0 |
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 4.0 |
-| DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 4.1.1 **Reenviado** |
+| DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 4.1.2 **Reenviado 2** |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | https://github.com/migueldgoncalves/CCproj_1819 | 4.0.14 |
 | GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 4.0 |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 4.1.1 |
