@@ -10,7 +10,7 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | ALQAM,  TAQIEDDIN F. A. | | |
 | ARCOS ANEAS, CARMEN | | |
 | BAUTISTA CASTRO,  JAIRO DANIEL | | |
-| BONILLA BOHORQUEZ,  JORGE ANDRES | | |
+| BONILLA BOHORQUEZ,  JORGE ANDRES | https://github.com/jabonillab/ProyectoCC2018 | 4.0 |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 4.2.0 **Reenviado** |
 | CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 4.0 |
 | CASANOVA GALLARDO, ENRIQUE | | |
