@@ -57,3 +57,13 @@
 - [x] Entender el concepto de infraestructura definida por software.
 - [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
 - [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+
+#Hito 5
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [ ] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
