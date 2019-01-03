@@ -93,15 +93,15 @@
 
 ## Sexta semana
 
-- [ ] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
 
-- [ ] Entender los diferentes conceptos subyacentes: servicio, estado.
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado.
 
-- [ ] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
 
-- [ ] Instalar y configurar diferentes sistemas de provisionamiento.
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
 
-- [ ] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+- [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
 
 - [x] Decidir sobre el próximo seminario (19 de noviembre).
 
@@ -111,13 +111,13 @@
 
 - [x] Entender las arquitecturas de software en la nube de uso en la actualidad.
 
-- [ ] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
 
-- [ ] Entender en qué consiste la infraestructura como software.
+- [x] Entender en qué consiste la infraestructura como software.
 
 - [x] Terminar el segundo hito.
 
-- [ ] Entender versiones y su especificación en Travis.
+- [x] Entender versiones y su especificación en Travis.
 
 - [x] Entender los remotes de git.
 
@@ -127,43 +127,81 @@
 
 - [x] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, Python y Ruby.
 
-- [ ] Poner a punto hipervisores de uso local y cuentas cloud que permitan usar máquinas virtuales para provisionar.
+- [x] Poner a punto hipervisores de uso local y cuentas cloud que permitan usar máquinas virtuales para provisionar.
 
 
 ## Octava semana
 
-- [ ] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
 
-- [ ] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
 
-- [ ] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+- [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
 
-- [ ] Continuar trabajando en el hito 3 del proyecto del proyecto, resolver las dudas que surjan y comentar lo que se ha hallado en el mismo.
+- [x] Continuar trabajando en el hito 3 del proyecto del proyecto, resolver las dudas que surjan y comentar lo que se ha hallado en el mismo.
 
-- [ ] Ver un ejemplo básico de ansible y otro ejemplo.
+- [x] Ver un ejemplo básico de ansible y otro ejemplo.
 
-- [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
 
 - [ ] Aprender nociones básicas de Ruby.
 
-- [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+- [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
 
-- [ ] Proponer un seminario de Chef Workstation para diciembre.
+- [x] Proponer un seminario de Chef Workstation para diciembre.
 
 
 ## Novena semana
 
 
-- [ ] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
+- [x] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
 
-- [ ] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
 
-- [ ] Instalar y configurar diferentes sistemas de provisionamiento.
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
 
-- [ ] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
+- [x] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
 
-- [ ] Entender las nociones básicas de seguridad.
+- [x] Entender las nociones básicas de seguridad.
 
-- [ ] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso. [Enlace instalación Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-apt?view=azure-cli-latest)
 
 
+## Décima semana
+
+- [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+
+- [x] Asimilar los conceptos relacionados con tales sistemas.
+
+- [x] Instalar algunas otras utilidades que puedan ser de ayuda, como jq y herramientas de medición de prestaciones como httperf o ab. ([Apache Bench](https://www.tutorialspoint.com/apache_bench/apache_bench_environment_setup.htm))
+
+- [x] Entender los errores más comunes en la entrega del hito 3.
+
+
+## Undécima semana
+
+- [x] Entender los recursos para automatización de actividades en la nube
+
+- [x] Entender el concepto de infraestructura definida por software.
+
+- [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+- [x] Empezar Ejercicios Tema: Automatizando el despliegue en la nube. [Enlace al repositorio](https://github.com/AntonioJavierRP/Ejercicios-Cloud-Computing/blob/master/4.%20Automatizando%20el%20despliegue%20en%20la%20nube/Ejercicios.md)
+
+
+## Duodécima semana
+
+
+- [x] Entender los recursos para automatización de actividades en la nube
+
+- [x] Entender el concepto de infraestructura definida por software.
+
+- [x] Entender los problemas con el hito 4.
+
+- [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+- [x] Terminar Ejercicios Tema: Automatizando el despliegue en la nube. [Enlace al repositorio](https://github.com/AntonioJavierRP/Ejercicios-Cloud-Computing/blob/master/4.%20Automatizando%20el%20despliegue%20en%20la%20nube/Ejercicios.md)
