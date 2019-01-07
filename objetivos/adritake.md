@@ -85,4 +85,15 @@
 - [X] Crear un script para automatizar la creación de máquinas virtuales y su aprovisionamiento
 
 [Ejercicios del tema 5](https://github.com/adritake/EjerciciosCC/tree/master/Tema5)
- 
+
+## Undécima semana
+
+- [X] Entender el concepto de infraestructura definida por software.
+- [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [X] Documentar y mantener una plataforma virtual.
+- [X] Realizar tareas de administración en infraestructura virtual.
+- [X] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [X] Saber cómo aplicarlos en un caso determinado.
+- [X] Conocer los sistemas de orquestación de máquinas virtuales.
+
+[Ejercicios del tema 6](https://github.com/adritake/EjerciciosCC/blob/master/Tema6/Tema6.md)
