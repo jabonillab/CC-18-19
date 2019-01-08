@@ -26,7 +26,7 @@ versionado semántico para la versión en la columna correspondiente.
 | MORALES GARZON,  ANDREA | | |
 | MORENTE GABALDÓN, ADRIÁN | | |
 | NEZREG ELAMBRI,   HOUARIA | | |
-| PEIRÓ GARRIDO,  FELIPE | | |
+| PEIRÓ GARRIDO,  FELIPE | 	https://github.com/fpeiro/CC-proyecto | 5 |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
 | SAMANIEGO MARTINEZ,  SERGIO | | |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 1 |
