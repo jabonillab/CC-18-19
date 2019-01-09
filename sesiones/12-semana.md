@@ -23,7 +23,7 @@
 
 * *Teoría*: Comenzamos a hablar de [virtualización ligera usando contenedores](http://jj.github.io/CC/documentos/temas/Contenedores)
 
-* *Proyecto*: Continuamos con el [hito 5 del proyecto](http://jj.github.io/CC/documentos/proyecto/4.Orquestacion). se
+* *Proyecto*: Continuamos con el [hito 5 del proyecto](http://jj.github.io/CC/documentos/proyecto/5.Orquestacion). se
   entregará el próximo *8 de enero*.
 
 ## Siguiente semana
