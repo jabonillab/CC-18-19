@@ -109,3 +109,19 @@ cómo trabajan unos con otros.
 - [x]  Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
 
 - [x]  Asimilar los conceptos relacionados con tales sistemas.
+
+## Objetivos semana Undécima y Duodécima
+
+### Objetivos de la asignatura
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [x]Entender los recursos para automatización de actividades en la nube
+
+- [x] Entender el concepto de infraestructura definida por software.
+
+### Objetivos adicionales
+
+- [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que
+   ofrecen.
