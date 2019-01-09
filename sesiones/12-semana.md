@@ -1,4 +1,4 @@
-# Duodécima semana, comienza el 19 de diciembre de 2017
+# Duodécima semana, comienza el 19 de diciembre de 2018
 
 ## Objetivos de la asignatura
 
