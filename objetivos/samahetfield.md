@@ -62,3 +62,17 @@ Los ejercicios del tema 3 correspondientes a estas dos semanas se encuentran res
 10. Instalar algunas otras utilidades que puedan ser de ayuda, como jq
 
 Los ejercicios correspondientes a este tema se encuentran en el siguiente [enlace](https://github.com/samahetfield/ejerciciosCC-1819/tree/master/ejerciciosTema4)
+
+
+# Semana 11
+
+1. Resolver los problemas con Vagrant para diferentes proveedores de nube.
+2. Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+3. Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+4. Documentar y mantener una plataforma virtual.
+5. Realizar tareas de administración en infraestructura virtual.
+6. Aprender lenguajes de configuración usados en infraestructuras virtuales.
+7. Saber cómo aplicarlos en un caso determinado.
+8. Conocer los sistemas de orquestación de máquinas virtuales.
+
+Los ejercicios del tema de orquestación se encuentan en el siguiente [enlace])(https://github.com/samahetfield/ejerciciosCC-1819/blob/master/ejerciciosOrquestacion/vagrant.md).
