@@ -100,3 +100,21 @@
 - [x] Instalar algunas otras utilidades que puedan ser de ayuda, como jq y herramientas de medición de prestaciones como httperf o ab.
 
 [Enlace ejercicios tema 4](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-4.md)
+
+## Undécima semana
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+[Enlace ejercicios tema 5](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-5.md)
+
+## Duodécima semana
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+[Enlace ejercicios tema 5](https://github.com/mesagon/Ejercicios-CC/blob/master/Tema-5.md)
