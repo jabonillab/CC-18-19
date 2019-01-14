@@ -134,3 +134,31 @@
 
 * [x] Proponer un seminario de Chef Workstation para diciembre.
 
+
+## Novena semana
+
+- [x] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+- [x] Instalar y configurar diferentes sistemas de provisionamiento. 
+- [x] Entender las nociones básicas de seguridad.
+- [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+- [x] Asimilar los conceptos relacionados con tales sistemas.
+
+### Otros objetivos de la novena semana
+
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+- [x] En la sesión del jueves, comentar los fallos más habituales en el hito.
+	- [x] Entender bien la calificación. Los 0 no son un 500 no funciona, sino un 404 not found. En general, dado que existe la posibilidad de volver a enviar, son sólo una forma de pediros que volváis a entregarlo.
+	- [x] Entender bien el guión del hito.
+		- [x] Leer cada uno de los items puntuables (o rúbricas) y facilitar la corrección de los mismos.
+		- [x] Entender cuál es el espíritu del guión, no la letra, sobre todo si se deciden hacer las cosas de forma diferente.
+	- [x] Entender cómo hacer la documentación
+		- [x] El README.md debe hacerse para que el lector entienda de qué va el proyecto y pueda instalarlo y/o desplegarlo en diferentes lugares.
+		- [x] Todo lo que se haga que sea invisible para quien corrige debe estar documentado. Se deben documentar también las elecciones que se hagan.
+		- [x] Documentar no es enlazar, sino explicar por qué se hace algo.
+		- [x] Es importante enlazar apartados específicos de la documentación, no la documentación genérica.
+	- [x] Sobre las rutas REST
+		- [x] Deben estar diseñadas alrededor de un recurso y evitar que incluyan cosas como get o set (porque va implícito en el comando HTTP que se use).
+		- [x] Usar también los status HTTP en vez de cosas como "No existe" (también en la documentación).
+	- [x] Sobre la programación
+		- [x] Los errores son errores, no "una función devuelve 0". Usad las excepciones del lenguaje y manejadlas.
