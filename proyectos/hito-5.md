@@ -12,7 +12,7 @@ versionado semántico para la versión en la columna correspondiente.
 | ARCOS ANEAS, CARMEN | | |
 | BAUTISTA CASTRO,  JAIRO DANIEL | | |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | | |
-| CABRERA GUTIERREZ,  ANTONIO JAVIER | | |
+| CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 5.0 |
 | CAMPOY NIEVES, ALEJANDRO | | |
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | | |
