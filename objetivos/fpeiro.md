@@ -93,4 +93,29 @@ Specific Language usado por los mismos.
 3. Instalar y configurar diferentes sistemas de provisionamiento.
 4. Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
 5. Entender las nociones básicas de seguridad.
-6. En la sesión del jueves, comentar los fallos más habituales en el hito.
+6. Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+7. En la sesión del jueves, comentar los fallos más habituales en el hito.
+
+## [Décima semana](https://github.com/fpeiro/CC-ejercicios/blob/master/objetivos/10-semana.md)
+1. Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+2. Asimilar los conceptos relacionados con tales sistemas.
+3. Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+4. Instalar algunas otras utilidades que puedan ser de ayuda, como jq y herramientas de medición de prestaciones como httperf o ab.
+5. Entender los errores más comunes en la entrega del hito 3.
+
+## [Undécima semana](https://github.com/fpeiro/CC-ejercicios/blob/master/objetivos/11-semana.md)
+1. Entender los recursos para automatización de actividades en la nube.
+2. Entender el concepto de infraestructura definida por software.
+3. Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## [Duodécima semana](https://github.com/fpeiro/CC-ejercicios/blob/master/objetivos/12-semana.md)
+1. Entender los recursos para automatización de actividades en la nube.
+2. Entender el concepto de infraestructura definida por software.
+3. Entender los problemas con el hito 4.
+4. Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## [Decimotercera semana](https://github.com/fpeiro/CC-ejercicios/blob/master/objetivos/13-semana.md)
+1. Entender el papel de los contenedores en la infraestructura virtual.
+2. Comprender los procesos de definición de contenedores.
+3. Análisis post-mortem del último hito.
+4. Alta en Docker Hub si no se ha hecho ya, así como instalación de las herramientas de Docker.
