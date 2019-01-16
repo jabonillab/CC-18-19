@@ -16,7 +16,7 @@ versionado semántico para la versión en la columna correspondiente.
 | CAMPOY NIEVES, ALEJANDRO | | |
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | | |
-| DE LA TORRE RODRIGUEZ,  ADRIAN | | |
+| DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 5.0 |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
 | GALLEGO QUERO,  LUIS | | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 5 |
