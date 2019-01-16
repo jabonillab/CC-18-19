@@ -28,7 +28,7 @@ versionado semántico para la versión en la columna correspondiente.
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | 	https://github.com/fpeiro/CC-proyecto | 5 |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
-| SAMANIEGO MARTINEZ,  SERGIO | | |
+| SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 5.0 |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 1 |
 | TATBAK,  EMRE | | |
 | TRILLO VÍLCHEZ,  JOSE RAMÓN | | |
