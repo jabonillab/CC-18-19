@@ -27,7 +27,7 @@ Primera semana del año.
   la
   [virtualización ligera usando contenedores](http://jj.github.io/CC/documentos/temas/Contenedores#gestin-de-contenedores-con-docker)  en este caso con Docker.
 
-* *Proyecto*: Entrega del [hito 5 del proyecto](http://jj.github.io/CC/documentos/proyecto/5.Orquestacion). Comenzamos con el [hito sobre contenedores](http://jj.github.io/CC/documentos/proyecto/5.Docker). La fecha de entrega del hito es el **22 de enero**. 
+* *Proyecto*: Entrega del [hito 5 del proyecto](http://jj.github.io/CC/documentos/proyecto/5.Orquestacion). Comenzamos con el [hito sobre contenedores](http://jj.github.io/CC/documentos/proyecto/6.Docker). La fecha de entrega del hito es el **22 de enero**. 
 
 ## Siguiente semana
 
