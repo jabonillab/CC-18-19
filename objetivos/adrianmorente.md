@@ -108,9 +108,8 @@ de reenvíos](http://jj.github.io/CC/documentos/proyecto/Reenvios).
 
 - [X] Entender los recursos para automatización de actividades en la nube.
 - [X] Entender el concepto de infraestructura definida por software.
-- [ ] Justificar la imagen del hito 4 a base de medidas.
-- [ ] Justificar el centro de datos del hito 4 a base de medidas.
-- [ ] Justificar el tamaño de instancia elegido para la máquina virtual del hito 4.
+- [X] Justificar la imagen del hito 4 a base de medidas.
+- [X] Justificar el tamaño de instancia elegido para la máquina virtual del hito 4.
 
 
 ### Objetivos a cubrir en la decimotercera semana (9 de enero de 2019)
