@@ -16,7 +16,7 @@ versionado semántico para la versión en la columna correspondiente.
 | CAMPOY NIEVES, ALEJANDRO | | |
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | | |
-| DE LA TORRE RODRIGUEZ,  ADRIAN | | |
+| DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 5.0 |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
 | GALLEGO QUERO,  LUIS | | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 5 |
@@ -28,7 +28,7 @@ versionado semántico para la versión en la columna correspondiente.
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | 	https://github.com/fpeiro/CC-proyecto | 5 |
 | RODRÍGUEZ PÉREZ, ANTONIO JAVIER | | |
-| SAMANIEGO MARTINEZ,  SERGIO | | |
+| SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 5.0 |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 1 |
 | TATBAK,  EMRE | | |
 | TRILLO VÍLCHEZ,  JOSE RAMÓN | | |
