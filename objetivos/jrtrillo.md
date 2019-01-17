@@ -51,6 +51,7 @@
 ## Objetivos Tercera Semana (17 Octubre)
 
 -[x]Seminario de microservicios -> Se ha realizado la lectura y comprensión del siguiente [enlace](https://www.meetup.com/es-ES/Granada-Geek/events/255394720/)
+
 -[x]Git para todo el mundo, también grabado en Youtube. -> Se estuvo presente durante la conferencia.
 
 ## Objetivos Cuarta Semana (24 de Octubre)
