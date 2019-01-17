@@ -50,17 +50,17 @@
 
 ## Sexta Semana (7 de Noviembre de 2018)
 
-- [ ] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
 - [x] Entender los diferentes conceptos subyacentes: servicio, estado.
 - [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar ([ver objetivo 1](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/objetivosSextaSemana.md)).
 - [ ] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
 - [x] Haber asistido al seminario de Ansible.
-- [ ] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
+- [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
 - [ ] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 - [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
 - [x] Haber asistido a la clase [Ansible](https://github.com/Gecofer/ejercicios-CC/blob/master/hito2/charlas/ansible.md).
 
-##### Séptima Semana (14 de Noviembre de 2018)
+## Séptima Semana (14 de Noviembre de 2018)
 
 - [x] Entender las arquitecturas de software en la nube de uso en la actualidad.
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
@@ -68,7 +68,7 @@
 - [x] Avance en el hito 2 incluyendo servicios adicionales ([avances](https://github.com/Gecofer/proyecto-CC/blob/master/docs/avance_proyecto.md)).
 - [x] Asistir al [seminario sobre Log](https://github.com/Gecofer/ejercicios-CC/tree/master/hito3/Charla%20logs).
 
-##### Octava Semana (21 de Noviembre de 2018)
+## Octava Semana (21 de Noviembre de 2018)
 
 - [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
 - [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
@@ -76,7 +76,37 @@
 - [x] Ver [un ejemplo básico de ansible](https://github.com/JJ/devops-days/blob/master/stuff/git.playbook.yml).
 - [x] Ver [otro ejemplo de ansible](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml)
 - [x] Ver el [video](https://www.youtube.com/watch?v=gFd9aj78_SM) tutorial de introducción a Ansible.
-- [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
 - [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
 
 Para comprender revisar [aquí](https://github.com/Gecofer/proyecto-CC/tree/master/provision).
+
+## Novena Semana (28 de Noviembre de 2018)
+
+- [x] Asistir a la charla de Chef ([documentación](https://github.com/Gecofer/ejercicios-CC/tree/master/hito4/Seminarios/Chef)).
+- [x] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
+- [ ] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
+- [x] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
+- [ ] Entender las nociones básicas de seguridad.
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso ((enlace)[https://github.com/Gecofer/proyecto-CC/blob/master/docs/automatizar-creacion-mv.md#id3]).
+- [x] Revisar la redirección del puerto 5000 al puerto 80 ([enlace](https://github.com/Gecofer/ejercicios-CC/blob/master/hito4/objetivosHito4.md))
+
+## Décima Semana (5 de Diciembre de 2018)
+
+- [x] Asistir a la charla de la nube desde la línea de órdenes ([documentación](https://github.com/Gecofer/ejercicios-CC/tree/master/hito4/Seminarios/Nube%20desde%20linea%20de%20ordenes)).
+- [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+- [x] Asimilar los conceptos relacionados con tales sistemas.
+- [x] Instalar algunas otras utilidades que puedan ser de ayuda, como `jq` y herramientas de medición de prestaciones como httperf o ab ((enlace)[https://github.com/Gecofer/proyecto-CC/blob/master/docs/automatizar-creacion-mv.md#listado-de-las-imágenes-de-máquinas-virtuales-disponibles-de-azure-]). 
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [ ] Realizar tareas de administración de infraestructuras virtuales.
+- [x] Crearse una cuenta google con la dirección de la UGR.
+
+## Undécima Semana (12 de Diciembre de 2018)
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [ ] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
