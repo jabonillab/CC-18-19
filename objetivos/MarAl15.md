@@ -96,3 +96,23 @@ Objetivos logrados a partir de la lectura y realización de los [ejercicios del 
 - [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware. (Conseguido tras la lectura de [esta explicación](http://www.datakeeper.es/?p=716)).
 - [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
 - [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+
+
+## Novena semana
+
+- [ ] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
+- [x] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes. Objetivo logrado a partir de la lectura y realización de los [ejercicios del tema de "Automatizando el despliegue en la nube"](https://github.com/MarAl15/EjerciciosCC/blob/master/Tema4/tema4.md)
+- [ ] Entender las nociones básicas de seguridad.
+
+
+## Decima semana
+
+- [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+- [x] Asimilar los conceptos relacionados con tales sistemas.
+
+### Otros objetivos
+
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+- [x] Instalar algunas otras utilidades que puedan ser de ayuda, como jq y herramientas de medición de prestaciones como httperf o ab.
