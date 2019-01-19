@@ -18,7 +18,7 @@ versionado semántico para la versión en la columna correspondiente.
 | CORREA FERNANDEZ,  GEMA | | |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 5.0 |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
-| GALLEGO QUERO,  LUIS | | |
+| GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 5.0 |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 5 |
 | GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 5.0 |
 | MARTÍN VALERA, JONATHAN | | |
