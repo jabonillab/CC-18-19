@@ -15,7 +15,7 @@ versionado semántico para la versión en la columna correspondiente.
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | https://github.com/javiercabrera184/ProyectoCC | 5.0 |
 | CAMPOY NIEVES, ALEJANDRO | | |
 | CASANOVA GALLARDO, ENRIQUE | | |
-| CORREA FERNANDEZ,  GEMA | | |
+| CORREA FERNANDEZ,  GEMA | https://github.com/Gecofer/proyecto-CC | 5.0 |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | https://github.com/adritake/CC_UGR_Personal | 5.0 |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
 | GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 5.0 |
