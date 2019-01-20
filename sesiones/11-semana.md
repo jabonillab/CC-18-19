@@ -23,4 +23,4 @@
 
 ## Siguiente semana
 
-[Undécima semana](12-semana)
+[Duodécima semana](12-semana.md)
