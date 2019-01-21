@@ -77,7 +77,7 @@
 - [x] Ver [otro ejemplo de ansible](https://github.com/JJ/platzi-docker-vm/blob/master/provision/playbook.yml)
 - [x] Ver el [video](https://www.youtube.com/watch?v=gFd9aj78_SM) tutorial de introducción a Ansible.
 - [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
-- [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+- [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
 
 Para comprender revisar [aquí](https://github.com/Gecofer/proyecto-CC/tree/master/provision).
 
@@ -88,7 +88,7 @@ Para comprender revisar [aquí](https://github.com/Gecofer/proyecto-CC/tree/mast
 - [ ] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
 - [x] Instalar y configurar diferentes sistemas de provisionamiento.
 - [x] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
-- [ ] Entender las nociones básicas de seguridad.
+- [x] Entender las nociones básicas de seguridad.
 - [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso ((enlace)[https://github.com/Gecofer/proyecto-CC/blob/master/docs/automatizar-creacion-mv.md#id3]).
 - [x] Revisar la redirección del puerto 5000 al puerto 80 ([enlace](https://github.com/Gecofer/ejercicios-CC/blob/master/hito4/objetivosHito4.md))
 
@@ -99,14 +99,30 @@ Para comprender revisar [aquí](https://github.com/Gecofer/proyecto-CC/tree/mast
 - [x] Asimilar los conceptos relacionados con tales sistemas.
 - [x] Instalar algunas otras utilidades que puedan ser de ayuda, como `jq` y herramientas de medición de prestaciones como httperf o ab ((enlace)[https://github.com/Gecofer/proyecto-CC/blob/master/docs/automatizar-creacion-mv.md#listado-de-las-imágenes-de-máquinas-virtuales-disponibles-de-azure-]). 
 - [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
-- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
 - [x] Documentar y mantener una plataforma virtual.
-- [ ] Realizar tareas de administración de infraestructuras virtuales.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
 - [x] Crearse una cuenta google con la dirección de la UGR.
 
 ## Undécima Semana (12 de Diciembre de 2018)
 
 - [x] Entender los recursos para automatización de actividades en la nube
 - [x] Entender el concepto de infraestructura definida por software.
-- [ ] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## Duodécima semana (19 de diciembre de 2018)
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [x] Entender los problemas con el hito 4
+- [x] Las justificaciones de imagen deben ser a base de medidas.
+- [x] Las justificaciones de centro de datos también ([ver](https://github.com/Gecofer/proyecto-CC/blob/master/docs/eleccion-mv-centro-datos.md#id13))
+- [x] Se debe justificar también el tamaño de instancia elegido ([ver](https://github.com/Gecofer/proyecto-CC/blob/master/docs/eleccion-mv-centro-datos.md#id11)).
+- [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
 - [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## Décimo tercera semana (9 de enero de 2019)
+
+- [ ] Entender el papel de los contenedores en la infraestructura virtual.
+- [ ] Comprender los procesos de definición de contenedores.

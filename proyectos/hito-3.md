@@ -6,7 +6,7 @@ correspondiente.
 
 | Nombre   | Enlace al repo | Versión |
 |----------|--------------- |---------|
-| AL-MUSAWI,  ABDULLAH TAHER SAADOON | https://github.com/AbdullahTaher93/CCMYproject | 3.0 |
+| AL-MUSAWI,  ABDULLAH TAHER SAADOON | https://github.com/AbdullahTaher93/CCMYproject | 3.1 **resend** |
 | AL-OWAIDI,  SALAM GHANIM NAJEEB | | |
 | ALGUACIL CAMARERO,  MARÍA DEL MAR | https://github.com/MarAl15/ProyectoCC | 4.5.1 **Reenviado3** |
 | ALQAM,  TAQIEDDIN F. A. | | |
@@ -32,5 +32,5 @@ correspondiente.
 | SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 3.0 |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 2 |
 | TATBAK,  EMRE | | |
-| TRILLO VÍLCHEZ,  JOSE RAMÓN | https://github.com/jrtrillo/proyecto_cc | 3.0 |
+| TRILLO VÍLCHEZ,  JOSE RAMÓN | https://github.com/jrtrillo/proyecto_cc | 3.1 **Reenviado** |
 | VALTL,  JAKOB | | |

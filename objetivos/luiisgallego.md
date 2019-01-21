@@ -171,3 +171,30 @@ Repositorio para le entrega de ejercicos => [Repositorio](https://github.com/lui
 * [] Resolver los problemas con Vagrant para diferentes proveedores de nube.
 * [X] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
 
+## Décimo tercera sesión (9 Enero)
+
+### Objetivos principales
+
+* [X] Entender el papel de los contenedores en la infraestructura virtual.
+* [X] Comprender los procesos de definición de contenedores.
+
+## Objetivos adicionales
+
+* [X] Análisis post-mortem del último hito.
+* [] Alta en Docker Hub si no se ha hecho ya, así como instalación de las herramientas de Docker.
+
+## Décimocuarta sesión (16 Enero)
+
+### Objetivos principales
+
+* [] Conocer sistemas operativos específicos de uso en contenedores.
+* [] Entender los mecanismos de coordinación de contenedores.
+* [X] Repaso y dudas sobre el último hito de la práctica.
+
+## Objetivos adicionales
+
+* [] Entregar (los que no lo hayan hecho) el hito 4. Tan solo me falta aprovisionar la máquina de un compañero y que aprovisionen la mia. 
+* [X] Resolver dudas relacionadas con el hito 5.
+* [] Trabajar con CoreOS.
+* [] Entender etcd y los mecanismos de coordinación y configuración distribuida.
+
