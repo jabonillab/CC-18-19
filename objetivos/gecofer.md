@@ -116,13 +116,13 @@ Para comprender revisar [aquí](https://github.com/Gecofer/proyecto-CC/tree/mast
 - [x] Entender los recursos para automatización de actividades en la nube
 - [x] Entender el concepto de infraestructura definida por software.
 - [x] Entender los problemas con el hito 4
-    - Las justificaciones de imagen deben ser a base de medidas.
-    - Las justificaciones de centro de datos también ([ver](https://github.com/Gecofer/proyecto-CC/blob/master/docs/eleccion-mv-centro-datos.md#id13))
-    - Se debe justificar también el tamaño de instancia elegido ([ver](https://github.com/Gecofer/proyecto-CC/blob/master/docs/eleccion-mv-centro-datos.md#id11)).
+- [ ] Las justificaciones de imagen deben ser a base de medidas.
+- [ ] Las justificaciones de centro de datos también ([ver](https://github.com/Gecofer/proyecto-CC/blob/master/docs/eleccion-mv-centro-datos.md#id13))
+- [ ] Se debe justificar también el tamaño de instancia elegido ([ver](https://github.com/Gecofer/proyecto-CC/blob/master/docs/eleccion-mv-centro-datos.md#id11)).
 - [x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
-- [  ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+- [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
 
 ## Décimo tercera semana (9 de enero de 2019)
 
-- [  ] Entender el papel de los contenedores en la infraestructura virtual.
-- [  ] Comprender los procesos de definición de contenedores.
+- [ ] Entender el papel de los contenedores en la infraestructura virtual.
+- [ ] Comprender los procesos de definición de contenedores.
