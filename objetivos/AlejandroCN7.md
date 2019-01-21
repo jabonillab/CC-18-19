@@ -110,6 +110,28 @@ Alumno: Alejandro Campoy Nieves
 
 * [ ] **41.** Comprender los pasos necesarios para la configuración automática de las mismas.
 
+* [X] **42.** Comprender los pasos necesarios para la configuración automática de las mismas.
+
+* [X] **43.** Entender el concepto de infraestructura definida por software.
+
+* [X] **44.** Entender los problemas con el hito 4.
+
+
+## Décimo tercera semana (9 de Enero de 2019)
+
+* [ ] **45.** Entender el papel de los contenedores en la infraestructura virtual.
+
+* [ ] **46.** Comprender los procesos de definición de contenedores.
+
+* [ ] **47.** Alta en Docker Hub si no se ha hecho ya, así como instalación de las herramientas de Docker.
+
+## Décimo cuarta semana (16 de Enero de 2019)
+
+* [ ] **48.** Conocer sistemas operativos específicos de uso en contenedores.
+
+* [ ] **49.** Entender los mecanismos de coordinación de contenedores.
+
+* [X] **50.** Repaso y dudas sobre el último hito de la práctica.
 
 #### Otros Objetivos
 
