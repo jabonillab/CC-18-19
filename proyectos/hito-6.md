@@ -19,7 +19,7 @@ versiones semánticas en la columna correspondiente.
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
 | GALLEGO QUERO,  LUIS | | |
-| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | | |
+| GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 6.2 |
 | GRIMM,  ALEXANDER MANUEL JOSEF | | |
 | MARTÍN VALERA, JONATHAN | | |
 | MESA GONZÁLEZ, JESÚS | | |
