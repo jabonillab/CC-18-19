@@ -167,3 +167,30 @@ Esta semana no tiene objetivos, dado que en la segunda semana solo hubo dos hora
 
 - [ ] Resolver los problemas con Vagrant para diferentes proveedores de nube.
 - [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## Duodécima semana
+
+- [x] Entender los recursos para automatización de actividades en la nube [Enlace](https://www.datacenterknowledge.com/archives/2014/11/03/cloud-automation-need-know-important)
+- [x] Entender el concepto de infraestructura definida por software [Ejercicio](https://github.com/migueldgoncalves/CC_ejercicios/blob/master/Orquestacion/Ejercicio_4.md)
+
+### Otros objetivos de la duodécima semana
+
+- [x] Entender los problemas con el hito 4
+	- [x] Las justificaciones de imagen deben ser a base de medidas
+	- [x] Las justificaciones de centro de datos también, pero medidas que sepamos exactamente qué hacen (y que no sean las mismas que las de un compañero)
+	- [x] Se debe justificar también el tamaño de instancia elegido
+- [ ] Resolver los problemas con Vagrant para diferentes proveedores de nube
+- [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen
+
+## Decimotercera semana
+
+- [ ] Entender el papel de los contenedores en la infraestructura virtual
+- [ ] Comprender los procesos de definición de contenedores
+
+### Otros objetivos de la decimotercera semana
+
+- [x] Análisis post-mortem del último hito
+	- [x] Similaridades entre entregas
+		- [x] Sobre todo, por coger el primer ejemplo que te encuentres en la web del plugin. Hay que currárselo un poco y no tener un proyecto para el que sirva el Vagrantfile más simple posible
+	- [x] Una sola máquina virtual no se orquesta, porque es una sola máquina virtual
+- [ ] Alta en Docker Hub si no se ha hecho ya, así como instalación de las herramientas de Docker
