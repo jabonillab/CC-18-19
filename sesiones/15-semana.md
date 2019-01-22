@@ -1,4 +1,4 @@
-# Décimo cuarta semana, comienza el 16 de enero de 2018
+# Décimoquinta semana, comienza el 23 de enero
 
 
 ## Objetivos de la asignatura
@@ -8,21 +8,20 @@
 
 ## Objetivos adicionales
 
+1. Entender los errores comunes en el hito 5
+   1. No entender que se trata de un programa Ruby: leer dos veces las
+      variables de entorno.
+   2. No buscar boxes más adecuadas para la aplicación desplegada.
 1. Entender la composición de la nota final.
 2. Entender el concepto de ejercicios de autoevaluación.
-3. Sesiones de evaluación:
-   1. Hito 5: 18 de enero.
-   2. Hito 6: 24 de enero.
-
+3. Entregar el último hito del proyecto.
+4. Avanzar en la funcionalidad del proyecto desplegado.
 
 ## Material para esta semana
 
-* *Teoría*: Continuamos con los 
-  [contenedores](http://jj.github.io/CC/documentos/temas/Contenedores).
+* *Teoría*: Finalizamos los [contenedores](http://jj.github.io/CC/documentos/temas/Contenedores).
 
-*
-  *Proyecto*: [Uso de Docker Compose](http://jj.github.io/CC/documentos/proyecto/6.Compose) Entrega del último hito del proyecto (sólo si cumples
-  los requisitos): 1 de febrero. 
+* *Proyecto*: [Uso de Docker Compose](http://jj.github.io/CC/documentos/proyecto/6.Compose) Entrega del último hito del proyecto: 1 de febrero. 
 
 ## Siguiente semana
 
