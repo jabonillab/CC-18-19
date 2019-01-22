@@ -48757,13 +48757,12 @@ EOC
     isnt( $status, undef, "Despliegue hecho en $deployment_url" );
     my $status_ref = from_json( $status );
     like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
-    
-    isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
+    ok( grep( /Dockerfile/, @repo_files), "Dockerfile presente" );
 
     my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
     diag "Detectado URL de Docker Hub '$dockerhub_url'";
-    my $dockerhub = get $dockerhub_url;
-    like( $dockerhub, qr/Last pushed:.+ago/, "Dockerfile actualizado y en Docker Hub");
+    my $dockerfile = get "$dockerhub_url/Dockerfile";
+    ok( $dockerfile, "Dockerfile actualizado y en Docker Hub");
   }
 
 };
