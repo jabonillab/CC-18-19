@@ -30,5 +30,5 @@ Incluye en la tabla inferior un enlace a tu repositorio
 | SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 4.1.3 **Reenviado 2** |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 2 **Reenviado** |
 | TATBAK,  EMRE | | |
-| TRILLO VÍLCHEZ,  JOSE RAMÓN | | |
+| TRILLO VÍLCHEZ,  JOSE RAMÓN | https://github.com/jrtrillo/proyecto_cc | 4.0 |
 | VALTL,  JAKOB | | |
