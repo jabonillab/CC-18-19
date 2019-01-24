@@ -21,7 +21,7 @@
 
 * *Teoría*: Finalizamos los [contenedores](http://jj.github.io/CC/documentos/temas/Contenedores).
 
-* *Proyecto*: [Uso de Docker Compose](http://jj.github.io/CC/documentos/proyecto/6.Docker) Entrega del último hito del proyecto: 1 de febrero. 
+* *Proyecto*: [Uso de Docker Compose](http://jj.github.io/CC/documentos/proyecto/6.Docker) Entrega del último hito del proyecto: 1 de febrero. Este es la última fecha posible, pero la fecha sin penalización termina esta semana.
 
 ## Siguiente semana
 
