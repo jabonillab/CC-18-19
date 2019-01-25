@@ -13,16 +13,16 @@ versiones semánticas en la columna correspondiente.
 | BAUTISTA CASTRO,  JAIRO DANIEL | | |
 | BONILLA BOHORQUEZ,  JORGE ANDRES | | |
 | CABRERA GUTIERREZ,  ANTONIO JAVIER | | |
-| CAMPOY NIEVES, ALEJANDRO | | |
+| CAMPOY NIEVES, ALEJANDRO | https://github.com/AlejandroCN7/Proyecto-Cloud-Computing | 6.6 |
 | CASANOVA GALLARDO, ENRIQUE | | |
 | CORREA FERNANDEZ,  GEMA | | |
 | DE LA TORRE RODRIGUEZ,  ADRIAN | | |
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
-| GALLEGO QUERO,  LUIS | | |
+| GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 6.0.2 |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 6.1.1 |
 | GRIMM,  ALEXANDER MANUEL JOSEF | | |
-| MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 6.4 |
-| MESA GONZÁLEZ, JESÚS |  | |
+| MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 6.5 |
+| MESA GONZÁLEZ, JESÚS | | |
 | MORALES GARZON,  ANDREA | | |
 | MORENTE GABALDÓN, ADRIÁN | | |
 | NEZREG ELAMBRI,   HOUARIA | | |
