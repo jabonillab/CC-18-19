@@ -21,8 +21,8 @@ versiones semánticas en la columna correspondiente.
 | GALLEGO QUERO,  LUIS | | |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 6.1.1 |
 | GRIMM,  ALEXANDER MANUEL JOSEF | | |
-| MARTÍN VALERA, JONATHAN | | |
-| MESA GONZÁLEZ, JESÚS | | |
+| MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 6.0 |
+| MESA GONZÁLEZ, JESÚS |  | |
 | MORALES GARZON,  ANDREA | | |
 | MORENTE GABALDÓN, ADRIÁN | | |
 | NEZREG ELAMBRI,   HOUARIA | | |
