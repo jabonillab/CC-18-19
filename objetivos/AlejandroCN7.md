@@ -88,7 +88,7 @@ Alumno: Alejandro Campoy Nieves
 
 * [X] **34.** Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
 
-* [ ] **35.** Entender las nociones básicas de seguridad.
+* [X] **35.** Entender las nociones básicas de seguridad.
 
 ## Décima semana (5 de Diciembre de 2018)
 
@@ -104,11 +104,11 @@ Alumno: Alejandro Campoy Nieves
 
 ## Duodécima semana (19 de Diciembre de 2018)
 
-* [ ] **39.** Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
+* [X] **39.** Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
 
-* [ ] **40.** Crear infraestructuras virtuales completas.
+* [X] **40.** Crear infraestructuras virtuales completas.
 
-* [ ] **41.** Comprender los pasos necesarios para la configuración automática de las mismas.
+* [X] **41.** Comprender los pasos necesarios para la configuración automática de las mismas.
 
 * [X] **42.** Comprender los pasos necesarios para la configuración automática de las mismas.
 
@@ -119,19 +119,27 @@ Alumno: Alejandro Campoy Nieves
 
 ## Décimo tercera semana (9 de Enero de 2019)
 
-* [ ] **45.** Entender el papel de los contenedores en la infraestructura virtual.
+* [X] **45.** Entender el papel de los contenedores en la infraestructura virtual.
 
-* [ ] **46.** Comprender los procesos de definición de contenedores.
+* [X] **46.** Comprender los procesos de definición de contenedores.
 
-* [ ] **47.** Alta en Docker Hub si no se ha hecho ya, así como instalación de las herramientas de Docker.
+* [X] **47.** Alta en Docker Hub si no se ha hecho ya, así como instalación de las herramientas de Docker.
 
 ## Décimo cuarta semana (16 de Enero de 2019)
 
-* [ ] **48.** Conocer sistemas operativos específicos de uso en contenedores.
+* [X] **48.** Conocer sistemas operativos específicos de uso en contenedores.
 
 * [ ] **49.** Entender los mecanismos de coordinación de contenedores.
 
 * [X] **50.** Repaso y dudas sobre el último hito de la práctica.
+
+## Décimo quinta semana (23 de Enero de 2019)
+
+* [X] **51.** Entender la composición de servicios usando Docker.
+
+* [X] **52.** Comprender el concepto de microservicios y su arquitectura.
+
+* [X] **53.** Entender la composición de la nota final.
 
 #### Otros Objetivos
 
