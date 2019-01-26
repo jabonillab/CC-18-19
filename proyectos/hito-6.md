@@ -23,7 +23,7 @@ versiones semánticas en la columna correspondiente.
 | GRIMM,  ALEXANDER MANUEL JOSEF | | |
 | MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 6.5 |
 | MESA GONZÁLEZ, JESÚS | | |
-| MORALES GARZON,  ANDREA | | |
+| MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 6.0 |
 | MORENTE GABALDÓN, ADRIÁN | | |
 | NEZREG ELAMBRI,   HOUARIA | | |
 | PEIRÓ GARRIDO,  FELIPE | https://github.com/fpeiro/CC-proyecto | 6 |
