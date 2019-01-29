@@ -26,7 +26,7 @@
 - [X] Revisar los resultados del primer hito y entender los fallos. Si no se ha entregado todavía, lo dejamos para la clase del viernes.
 - [X] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento, [Python](https://github.com/alex1ai/ejercicios-CC-18-19/tree/master/img/python.png) y [Ruby](https://github.com/alex1ai/ejercicios-CC-18-19/tree/master/img/ruby.png).
 - [X] Darse de alta en servicios PaaS como [zeit.co](https://github.com/alex1ai/ugr-master-cc/blob/master/now.json) y Heroku.
-- [ ] Establecido el tema de la charla de recuperación: provisión con Ansible.
+- [X] Establecido el tema de la charla de recuperación: provisión con Ansible.
 - [X] Entender por qué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando un squash commits con git rebase -i.
 
 ## Semana #5
@@ -65,11 +65,24 @@ Enlace para hito 4: [Here](https://github.com/alex1ai/ejercicios-CC-18-19/blob/m
 
 # Semana 10
 1. [X] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
-2. [ ] Asimilar los conceptos relacionados con tales sistemas.
+2. [X] Asimilar los conceptos relacionados con tales sistemas.
 
 # Semana 11/12
 1. [X] Entender los recursos para automatización de actividades en la nube
-2. [ ] Entender el concepto de infraestructura definida por software.
+2. [X] Entender el concepto de infraestructura definida por software.
+
 Enlace para hito 5: [Ejercicios](https://github.com/alex1ai/ejercicios-CC-18-19/blob/master/vagrant/docu_ejercicios.md)
 
+# Semana 13
+1. [X] Entender el papel de los contenedores en la infraestructura virtual.
+2. [X] Comprender los procesos de definición de contenedores.
 
+# Semana 14
+1. [X] Conocer sistemas operativos específicos de uso en contenedores.
+2. [X] Entender los mecanismos de coordinación de contenedores.
+
+# Semana 15
+1. [X] Entender la composición de servicios usando Docker.
+2. [X] Comprender el concepto de microservicios y su arquitectura.
+
+Enlace de ejercicos sobre contenedores (hito 6): [Ejercicios](https://github.com/alex1ai/ejercicios-CC-18-19/blob/master/contenedores.md)
