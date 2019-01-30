@@ -20,7 +20,7 @@ versiones semánticas en la columna correspondiente.
 | DE OLIVEIRA DIAS GONÇALVES, MIGUEL | | |
 | GALLEGO QUERO,  LUIS | https://github.com/luiisgallego/MII_CC_1819 | 6.0.2 |
 | GOMEZ-PORTILLO LOPEZ,  PEDRO MANUEL | https://github.com/gomezportillo/apolo | 6.1.1 |
-| GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 6.0 |
+| GRIMM,  ALEXANDER MANUEL JOSEF | https://github.com/alex1ai/ugr-master-cc | 6.0.1 |
 | MARTÍN VALERA, JONATHAN | https://github.com/jmv74211/Proyecto-cloud-computing | 6.5 |
 | MESA GONZÁLEZ, JESÚS | | |
 | MORALES GARZON,  ANDREA | https://github.com/andreamorgar/ProyectoCC | 6.0.1 |
