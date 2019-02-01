@@ -50,137 +50,174 @@
 
 ## Objetivos Tercera Semana (17 Octubre)
 
--[x]Seminario de microservicios -> Se ha realizado la lectura y comprensión del siguiente [enlace](https://www.meetup.com/es-ES/Granada-Geek/events/255394720/)
+-[x] Seminario de microservicios -> Se ha realizado la lectura y comprensión del siguiente [enlace](https://www.meetup.com/es-ES/Granada-Geek/events/255394720/)
 
--[x]Git para todo el mundo, también grabado en Youtube. -> Se estuvo presente durante la conferencia.
+-[x] Git para todo el mundo, también grabado en Youtube. -> Se estuvo presente durante la conferencia.
 
 ## Objetivos Cuarta Semana (24 de Octubre)
 
--[x]Entender las arquitecturas de software en la nube de uso en la actualidad.
+-[x] Entender las arquitecturas de software en la nube de uso en la actualidad.
 
--[x]Comprender el papel fundamental de la infraestructura virtual en este proceso.
+-[x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
 
--[x]Entender en qué consiste los servicios web y cómo desplegarlos en la nube.
+-[x] Entender en qué consiste los servicios web y cómo desplegarlos en la nube.
 
--[x]Revisar los resultados del primer hito y entender los fallos.
+-[x] Revisar los resultados del primer hito y entender los fallos.
 
--[x]Tener manejo básico de los lenguajes usados en herramientas de provisionamiento: Node.
+-[x] Tener manejo básico de los lenguajes usados en herramientas de provisionamiento: Node.
  
--[x]Darse de alta en servicios PaaS como Heroku y zeit.co (Realizado en el ejercicio 1).
+-[x] Darse de alta en servicios PaaS como Heroku y zeit.co (Realizado en el ejercicio 1).
 
--[x]Entender porqué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando git squash.
+-[x] Entender porqué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando git squash.
 
 ## Objetivos Quinta Semana (31 de Octubre)
 
--[x]Comprender el tipo de aplicaciones que se despliegan en la nube.
+-[x] Comprender el tipo de aplicaciones que se despliegan en la nube.
 
--[x]Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software.
+-[x] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software.
 
--[x]Haber asistido al seminario sobre microservicios.
+-[x] Haber asistido al seminario sobre microservicios.
 
--[x]Repasar los reenvíos del tema 2.
+-[x] Repasar los reenvíos del tema 2.
 
--[x]Conocer las diferentes ofertas de PaaS en la nube.
+-[x] Conocer las diferentes ofertas de PaaS en la nube.
 
--[x]Instalar las herramientas de línea de órdenes de las herramientas cloud, en este caso de Heroku (ver objetivo 1).
+-[x] Instalar las herramientas de línea de órdenes de las herramientas cloud, en este caso de Heroku (ver objetivo 1).
 
--[x]Aprender lo mínimo de Node para trabajar en la nube.
+-[x] Aprender lo mínimo de Node para trabajar en la nube.
 
--[x]Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+-[x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
 
--[x]Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+-[x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
 
 ## Objetivos Sexta Semana (7 de Noviembre)
 
--[x]Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
+-[x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales en la nube.
 
--[x]Entender los diferentes conceptos subyacentes: servicio, estado.
+-[x] Entender los diferentes conceptos subyacentes: servicio, estado.
 
--[x]Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar (objetivo 1).
+-[x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar (objetivo 1).
 
--[x]Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+-[x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
 
--[x]Haber asistido al seminario de Ansible.
+-[x] Haber asistido al seminario de Ansible.
 
--[x]Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
+-[x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS.
 
--[x]Aplicar el concepto de DevOps a este tipo específico de plataforma.
+-[x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 
--[x]Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+-[x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
 
--[x]Haber asistido a la clase Ansible.
+-[x] Haber asistido a la clase Ansible.
 
 ## Objetivos Séptima Semana (14 de Noviembre)
 
--[x]Entender las arquitecturas de software en la nube de uso en la actualidad.
+-[x] Entender las arquitecturas de software en la nube de uso en la actualidad.
 
--[x]Comprender el paper fundamental de la infraestructura virtual en este proceso.
+-[x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
 
--[x]Entender en qué consiste la infraestructura como software.
+-[x] Entender en qué consiste la infraestructura como software.
 
--[x]Avance en el hito 2 incluyendo servicios adicionales (avances).
+-[x] Avance en el hito 2 incluyendo servicios adicionales (avances).
 
--[x]Asistir al seminario sobre Log.
+-[x] Asistir al seminario sobre Log.
 
 ## Objetivos Octava Semana (21 de Noviembre)
 
--[x]Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+-[x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
 
--[x]Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+-[x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
 
--[x]Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+-[x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
  
--[x]Ver un ejemplo básico de ansible.
+-[x] Ver un ejemplo básico de ansible.
 
--[x]Ver otro ejemplo de ansible
+-[x] Ver otro ejemplo de ansible
  
--[x]Ver el video tutorial de introducción a Ansible.
+-[x] Ver el video tutorial de introducción a Ansible.
 
--[x]Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+-[x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
 
--[x]Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+-[x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
 
 ## Objetivos Novena Semana (28 de Noviembre)
--[x]Asistir a la charla de Chef.
 
--[x]Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
+-[x] Asistir a la charla de Chef.
 
--[x]Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+-[x] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
 
--[x]Instalar y configurar diferentes sistemas de provisionamiento.
+-[x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
 
--[x]Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
+-[x] Instalar y configurar diferentes sistemas de provisionamiento.
 
--[x]Entender las nociones básicas de seguridad.
+-[x] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
 
--[x]Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+-[x] Entender las nociones básicas de seguridad.
 
--[x]Revisar la redirección del puerto 3000 al puerto 80.
+-[x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+
+-[x] Revisar la redirección del puerto 3000 al puerto 80.
 
 ## Objetivos Décima Semana (5 de Diciembre)
 
--[x]Asistir a la charla de la nube desde la línea de órdenes.
+-[x] Asistir a la charla de la nube desde la línea de órdenes.
 
--[x]Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+-[x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
 
--[x]Asimilar los conceptos relacionados con tales sistemas.
+-[x] Asimilar los conceptos relacionados con tales sistemas.
 
--[x]Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+-[x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
  
--[x]Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+-[x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
 
--[x]Documentar y mantener una plataforma virtual.
+-[x] Documentar y mantener una plataforma virtual.
 
--[x]Realizar tareas de administración de infraestructuras virtuales.
+-[x] Realizar tareas de administración de infraestructuras virtuales.
 
--[x]Crearse una cuenta google con la dirección de la UGR.
+-[x] Crearse una cuenta google con la dirección de la UGR.
 
 ## Objetivos Undécima Semana (12 de Diciembre)
 
--[ ]Entender los recursos para automatización de actividades en la nube
+-[x] Entender los recursos para automatización de actividades en la nube
 
--[ ]Entender el concepto de infraestructura definida por software.
+-[x] Entender el concepto de infraestructura definida por software.
 
--[ ]Resolver los problemas con Vagrant para diferentes proveedores de nube.
+-[x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
 
--[ ]Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+-[x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## Objetivos Duodécima semana (19 de Diciembre)
+
+-[x] Entender los recursos para automatización de actividades en la nube
+
+-[x] Entender el concepto de infraestructura definida por software.
+
+-[ ] Entender los problemas con el hito 4
+
+-[x] Las justificaciones de imagen deben ser a base de medidas.
+
+-[x] Las justificaciones de centro de datos también.
+
+-[x] Se debe justificar también el tamaño de instancia elegido.
+
+-[x] Resolver los problemas con Vagrant para diferentes proveedores de nube.
+
+-[x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## Objetivos Décimo tercera semana (9 de Enero)
+
+-[x] Entender el papel de los contenedores en la infraestructura virtual.
+
+-[x] Comprender los procesos de definición de contenedores.
+
+## Objetivos Décimo cuarta semana (16 de Enero) 
+
+-[x] Conocer sistemas operativos específicos de uso en contenedores.
+
+-[x] Entender los mecanismos de coordinación de contenedores.
+
+## Objetivos Décimo cuarta semana (23 de Enero) 
+
+-[x] Entender la composición de servicios usando Docker.
+
+-[x] Comprender el concepto de microservicios y su arquitectura.
