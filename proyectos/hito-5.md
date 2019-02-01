@@ -31,5 +31,5 @@ versionado semántico para la versión en la columna correspondiente.
 | SAMANIEGO MARTINEZ,  SERGIO | https://github.com/samahetfield/PersonalCC-1819 | 5.0 |
 | SERRANO PEREZ,  JUAN CARLOS | https://github.com/xenahort/proyectoCloudComputing | 1 |
 | TATBAK,  EMRE | | |
-| TRILLO VÍLCHEZ,  JOSE RAMÓN | | |
+| TRILLO VÍLCHEZ,  JOSE RAMÓN |https://github.com/jrtrillo/proyecto_cc |5.0.0|
 | VALTL,  JAKOB | | |
